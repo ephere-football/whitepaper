@@ -4,7 +4,7 @@
 
 ## Ephereals
 
-* [Football players](ephereals/football-players.md)
+* [Football player](ephereals/football-player.md)
 * [Scarcity](ephereals/scarcity.md)
 * [Talent distribution](ephereals/talent-distribution.md)
 

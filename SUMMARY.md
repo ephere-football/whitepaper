@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Intro](README.md)
+* [Ephere](README.md)
 
 ## Ephereals
 

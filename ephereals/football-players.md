@@ -1,5 +1,31 @@
 # Football players
 
+{% swagger method="get" path="" baseUrl="" summary="" %}
+{% swagger-description %}
+
+{% endswagger-description %}
+{% endswagger %}
+
+```
+---
+```
+
+{% tabs %}
+{% tab title="First Tab" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
 In Ephere, football players are non-fungible, transferable, and scarce digital assets stored in an Ethereum smart contract implementing the ERC-721 standard (aka. NFT).
 
 They have mental and physical attributes, trainable football skills that are capped by genetic and distinctive visual properties, some of which can be changed by their owner. Players gain experience by playing matches, and they can also get tired, injured, grow old, and retire — _they’re alive_. Males, females, and non-binary genders from all different species (as not all the players are human) can play together.

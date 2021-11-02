@@ -6,7 +6,7 @@ description: 'Official contract address: 0x2cc768c4bd51641c545c5463617d36ea0aaf6
 
 Our game is designed with an economy in mind, one which rewards specific behaviors —such as winning matches, completing challenges or using our marketplace. We’ve built this around our own medium of exchange_:_ the $EPH cryptocurrency.
 
-It’s an **ERC20** token running on the **Ethereum** blockchain. The supply is capped at 300,000,000 and they will be minted strictly as needed.
+$EPH is an **ERC-20** token running on the **Ethereum** blockchain. The supply is capped at 300,000,000 and they will be minted strictly as needed.
 
 
 

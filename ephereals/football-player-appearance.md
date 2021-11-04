@@ -2,7 +2,7 @@
 
 We want our users to _love_ their players, but it’s hard to love a faceless dataset. That’s why we crafted detail-rich visuals that complement the data model by giving it a curated visual appearance.
 
-There are two ways of determining the visual appearance of an Ephereal. For most of them it’s by their genetic code, a number in the data model that determines different traits. Each trait corresponds to a different body part. Those parts are then combined to produce the final image. Between the many different traits **there are more than six billions of possible combinations**.
+There are two ways of determining the visual appearance of an Ephereal. For most of them it’s by their genetic code, a number in the data model that determines different traits. Each trait corresponds to a different body part. Those parts are then combined to produce the final image. Between the many different traits **there are more than six billions  possible combinations**.
 
 ![Algorithmically generated images](../.gitbook/assets/algorithmic.png)
 

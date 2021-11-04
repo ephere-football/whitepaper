@@ -11,10 +11,16 @@
 
 ## Gameplay
 
+* [Introduction](gameplay/introduction.md)
 * [Training](gameplay/training.md)
 * [PvE](gameplay/pve.md)
 * [PvP](gameplay/pvp.md)
 * [League](gameplay/league.md)
+
+## Marketplace
+
+* [Buying & selling players](marketplace/buying-and-selling-players.md)
+* [Hiring players](marketplace/hiring-players.md)
 
 ## Tokenomics
 

@@ -4,9 +4,10 @@
 
 ## Ephereals
 
-* [Football player](ephereals/football-player.md)
-* [Scarcity](ephereals/scarcity.md)
+* [Football player model](ephereals/football-player-model.md)
+* [Visual appearance](ephereals/visual-appearance.md)
 * [Talent distribution](ephereals/talent-distribution.md)
+* [Scarcity](ephereals/scarcity.md)
 
 ## Gameplay
 

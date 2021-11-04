@@ -1,5 +1,5 @@
 # Scarcity
 
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+There will be up to 200 million Ephere Football Players at any moment in time. That number (close to the real number of football players out there) has two purposes. First, to make players [scarce](https://www.investopedia.com/terms/s/scarcity.asp), encouraging people to make decisions about how to allocate resources efficiently. Second, to enforce a practical limit to the number of teams (users) that can play the game. In theory, no more than 10 million people will be able to actively play the game at the same time.
+
+As scarcity is relative, it doesn’t make sense to release all those players at once. They’ll be minted as the game is demanded. As demand can be a subjective term, we decided to measure it as the amount of EFP’s energy spent every week. The rationale behind is that, as more training sessions are performed and more matches are played (i.e. as the game is played more), more energy will be spent. When the amount of energy spent reaches a certain growth threshold (to be defined) a new random player will be created and airdroped to people actively playing the game.

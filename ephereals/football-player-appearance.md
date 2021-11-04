@@ -1,16 +1,14 @@
-# Visual appearance
+# Football player appearance
 
-### Visual appearance
+We want our users to _love_ their players, but it’s hard to love a faceless dataset. That’s why we crafted detail-rich visuals that complement the data model by giving it a curated visual appearance.
 
-We want our users to love their players, but it’s hard to love a faceless dataset. That’s why we crafted detail-rich visuals that complement the data model by giving it a curated visual appearance.
+There are two ways of determining the visual appearance of an Ephereal. For most of them it’s by their genetic code, a number in the data model that determines different traits. Each trait corresponds to a different body part. Those parts are then combined to produce the final image. Between the many different traits **there are more than six billions of possible combinations**.
 
-There are two ways of determining the visual appearance of an Ephere Football Player. For most of them it’s by their genetic code, a number in the data model that determines different traits. Each trait corresponds to a different body part. Those parts are then combined to produce the final image. Between the many different traits there are billions of possible combinations.
-
-\[IMAGE OF SEVERAL RENDERS OF ALGORITHMICALLY GENERATED EPHEREALS]
+![Algorithmically generated images](../.gitbook/assets/algorithmic.png)
 
 For some other very rare players (limited editions) the visual appearance will be crafted by our artists.
 
-\[IMAGE OF SEVERAL LIMITED EDITIONS]
+![Manually crafted images](<../.gitbook/assets/Whitepaper - crafted.png>)
 
 #### Personalization
 

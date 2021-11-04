@@ -10,12 +10,12 @@ For some other very rare players (limited editions) the visual appearance will b
 
 ![Manually crafted images](<../.gitbook/assets/Whitepaper - crafted.png>)
 
-#### Personalization
+### Personalization
 
 For those players with an algorithmically-generated visual appearance, owners will be able to add accessories such as tattoos, piercings, makeup, as well as styling their hair and customizing their kits.
 
 ### Inclusiveness
 
-One of the things that distinguishes our project from all others is that our visual traits include several underrepresented groups. Parading this kind of diversity makes us very proud, indeed! We encourage you to help us send a message of inclusion, tolerance, and respect by letting us know if we missed any of them, and also by demanding your game/service providers to include them when representing humans.
+One of the things that distinguishes our project from all others (not only football-related) is that our representation of humans includes several underrepresented groups. Parading this kind of diversity makes us very proud, indeed!
 
-\[IMAGE OF SEVERAL UNDERREPRESENTED PEOPLE]
+We encourage you to help us send a message of inclusion, tolerance, and respect by letting us know if we missed any of them, and also by demanding your game/service providers to include them when representing humans.

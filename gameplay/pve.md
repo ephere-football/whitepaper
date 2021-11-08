@@ -1,5 +1,7 @@
 # PvE match
 
+![Match screen](<../.gitbook/assets/Ephere-UI Match.gif>)
+
 This game mode allows you put your team to play a 11vs11 match against our AI. The AI difficulty will be automatically adjusted according to the OVR of your squad.
 
 | Property                 | Value                   |

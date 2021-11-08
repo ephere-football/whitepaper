@@ -33,7 +33,7 @@ In the future we'll use a High-Throughput blockchain --probably built by us-- to
 
 ### Retirement
 
-As players get old they performance will decrease. Players will be able to retire their players if they want, leaving room for new players to be born (Remember, players are scarce). For doing so they will be rewarded.&#x20;
+As players get old they performance will decrease. Users will be able to retire their players if they want, leaving room for new players to be born (Remember, players are scarce). For doing so they will be rewarded.&#x20;
 
 {% hint style="warning" %}
 Retiring a player implies burning the ERC721 token.

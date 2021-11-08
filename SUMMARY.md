@@ -12,9 +12,10 @@
 ## Gameplay
 
 * [Introduction](gameplay/introduction.md)
+* [Variable $EPH cost & reward](gameplay/variable-usdeph-cost-and-reward.md)
 * [Training](gameplay/training.md)
-* [PvE](gameplay/pve.md)
-* [PvP](gameplay/pvp.md)
+* [PvE match](gameplay/pve-match.md)
+* [PvP match](gameplay/pvp-match.md)
 * [League](gameplay/league.md)
 
 ## Marketplace

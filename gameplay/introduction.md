@@ -10,9 +10,11 @@ Unlike football fantasy games based on blockchain technology, Ephere is built ar
 
 ### Game modes
 
+There are four main game modes. Each one has a different [$EPH](../tokenomics/usdeph.md) entry cost, requires different amount of energy, and provides different rewards.
+
 * [Training](training.md): you pick up to 5 players to perform a pre-defined training session
-* [PvE](pve.md): your team plays against our AI
-* [PvP](pvp.md): your team plays against another user's team with similar OVR
+* [PvE](pve-match.md): your team plays against our AI
+* [PvP](pvp-match.md): your team plays against another user's team with similar OVR
 * [League](league.md): your team recurrently plays matches in a hierarchical league
 
 ### Play to earn
@@ -22,7 +24,7 @@ The game allows users to earn [$EPH](../tokenomics/usdeph.md) in several ways, i
 * Completing game challenges (such as scoring X goals, mantaining Y ball posesion)
 * Finishing at the top of the [league](league.md) rank
 * Using the [marketplace](broken-reference)
-* Winning [PvE matches](pve.md)
-* Winning [PvP matches](pvp.md)
+* Winning [PvE matches](pve-match.md)
+* Winning [PvP matches](pvp-match.md)
 * Winning seasonal tournaments
 * (and many more still in the works)

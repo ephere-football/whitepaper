@@ -7,5 +7,5 @@ The reason behind this decision is that, as the $EPH max supply is fixed, the US
 By utilizing this balancing mechanism we form a correlation between active users and the dollar value of $EPH, protecting users from wild fluctuations in the $EPH market price, and maintaining for extended --and sustainable-- periods of time the costs and rewards of the game.
 
 {% hint style="info" %}
-The $EPH costs and rewards specified in the Gameplay section of this Whitepaper will be expressed as the approximate USD value of the $EPH cost or reward.
+The $EPH costs and rewards specified in the Gameplay and Marketplace sections of this Whitepaper will be expressed as the approximate USD value of the $EPH cost or reward.
 {% endhint %}

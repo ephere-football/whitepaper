@@ -17,7 +17,7 @@
 * ☑️ Initial NFT Offering
 * Community growth
 * Strategic partnerships
-* Launch $EPH on Uniswap
+* Launch $EPH on Pancakeswap
 * First MVP version of the game
 * First tournament with monetary prizes
 * Talent distribution control algorithm

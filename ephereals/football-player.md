@@ -8,8 +8,6 @@ In Ephere, football players are non-fungible, transferable, and scarce digital a
 
 They have mental and physical attributes, trainable football skills that are capped by genetic and distinctive visual properties, some of which can be changed by their owner. Players gain experience by playing matches, and they can also get tired, injured, grow old, and retire — _they’re alive_.&#x20;
 
-Males, females, and non-binary genders from all different species (as not all the players are human) can play together.
-
 {% hint style="info" %}
 Official contract: [0xF48b4c5E2C7115Fb696b5401648D47E07a83194C](https://bscscan.com/token/0xF48b4c5E2C7115Fb696b5401648D47E07a83194C) ([Source code](https://github.com/ephere-football/contracts/blob/master/contracts/EphereFootballerERC721.sol))
 {% endhint %}

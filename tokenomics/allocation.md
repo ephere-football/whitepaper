@@ -1,7 +1,7 @@
 # Allocation
 
 {% embed url="https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ/edit?usp=sharing" %}
-EPH vesting & allocation schedule
+EPH vesting & allocation schedule: [https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ](https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ/edit?usp=sharing)
 {% endembed %}
 
 ### Advisors & Marketing <a href="#13df" id="13df"></a>

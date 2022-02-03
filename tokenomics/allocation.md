@@ -1,8 +1,12 @@
 # Allocation
 
+{% embed url="https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ/edit?usp=sharing" %}
+EPH vesting & allocation schedule
+{% endembed %}
+
 ### Advisors & Marketing <a href="#13df" id="13df"></a>
 
-Just like any enterprise, Ephere needs the counsel and guidance of more experienced people —their time invested in helping us meet our potential is rewarded with $EPH. These tokens represent 6% of the total supply and are already minted and unlocked. Those who decide to join us in this capacity are big believers in how our economy will work: people with a vested interest in the sustained growth of this model, sporting with a win-win mentality.
+Just like any enterprise, Ephere needs the counsel and guidance of more experienced people —their time invested in helping us meet our potential is rewarded with [$EPH](usdeph.md). These tokens represent 6% of the total supply and are already minted and unlocked. Those who decide to join us in this capacity are big believers in how our economy will work: people with a vested interest in the sustained growth of this model, sporting with a win-win mentality.
 
 ### Core Team <a href="#5e49" id="5e49"></a>
 

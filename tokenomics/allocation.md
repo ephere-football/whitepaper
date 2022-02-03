@@ -10,16 +10,7 @@ Just like any enterprise, Ephere needs the counsel and guidance of more experien
 
 ### Core Team <a href="#5e49" id="5e49"></a>
 
-We believe and support those who create Ephere, thus founders should stay incentivized after a successful bootstrapping. The 20% of the total token supply assigned to the core team will be unlocked gradually over a period of 480 days, following this schedule:
-
-| Period | Release date | Percentage |
-| ------ | ------------ | ---------- |
-| Q1     | 2021/10/01   | 3%         |
-| Q2     | 2021/12/30   | 3%         |
-| Q3     | 2022/03/30   | 3%         |
-| Q4     | 2022/06/28   | 3%         |
-| Q5     | 2022/09/26   | 3%         |
-| Q6     | 2022/12/25   | 5%         |
+We believe and support those who create Ephere, thus founders should stay incentivized after a successful bootstrapping. The 20% of the total token supply assigned to the core team will be unlocked gradually over a period of 480 days.
 
 ### Play to Earn <a href="#3875" id="3875"></a>
 

@@ -17,6 +17,7 @@
 * [PvE match](gameplay/pve.md)
 * [PvP match](gameplay/pvp.md)
 * [League](gameplay/league.md)
+* [Scolarships](gameplay/scolarships.md)
 
 ## Marketplace
 

@@ -15,18 +15,18 @@
 **Phase 2 (Q4 2021)**
 
 * ☑️ Initial NFT Offering
-* Community growth
-* Strategic partnerships
-* Launch $EPH on Pancakeswap
-* First MVP version of the game
-* First tournament with monetary prizes
-* Talent distribution control algorithm
+* ☑️ First MVP version of the game
+* ☑️ First tournament with monetary prizes
+* ☑️ Talent distribution control algorithm
 
 **Phase 3 (Q1 2022 - Q2 2022)**
 
+* Community growth
+* Strategic partnerships
 * Smart contract audit
 * Aggressive marketing
 * Launch marketplace
+* Launch $EPH on Pancakeswap
 * Launch $EPH on Binance
 * First public version of the game (web)
 

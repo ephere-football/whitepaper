@@ -4,9 +4,9 @@ description: 'Official contract address: 0xF48b4c5E2C7115Fb696b5401648D47E07a831
 
 # Football player model
 
-In Ephere, football players are non-fungible, transferable, and scarce digital assets stored in a smart contract implementing the ERC-721 standard (also known as NFT) in the [Binance Smart Chain](https://coinmarketcap.com/alexandria/article/what-is-binance-smart-chain).&#x20;
+In Ephere, football players are non-fungible, transferable, and scarce digital assets stored in a smart contract implementing the ERC-721 standard (also known as NFT) in the [Binance Smart Chain](https://coinmarketcap.com/alexandria/article/what-is-binance-smart-chain).
 
-They have mental and physical attributes, trainable football skills that are capped by genetic and distinctive visual properties, some of which can be changed by their owner. Players gain experience by playing matches, and they can also get tired, injured, grow old, and retire — _they’re alive_.&#x20;
+They have mental and physical attributes, trainable football skills that are capped by genetic and distinctive visual properties, some of which can be changed by their owner. Players gain experience by playing matches, and they can also get tired, injured, grow old, and retire — _they’re alive_.
 
 {% hint style="info" %}
 Official contract: [0xF48b4c5E2C7115Fb696b5401648D47E07a83194C](https://bscscan.com/token/0xF48b4c5E2C7115Fb696b5401648D47E07a83194C) ([Source code](https://github.com/ephere-football/contracts/blob/master/contracts/EphereFootballerERC721.sol))
@@ -30,7 +30,7 @@ In the future we'll use a High-Throughput blockchain --probably built by us-- to
 
 ### Retirement
 
-As players get old they performance will decrease. Users will be able to retire their players if they want, leaving room for new players to be born (Remember, players are scarce). For doing so they will be rewarded.&#x20;
+As players get old their performance decrease. Users will be able to retire their players if they want, leaving room for new players to be born (Remember, players are scarce). For doing so they will be rewarded.
 
 {% hint style="warning" %}
 Retiring a player implies burning the ERC721 token.

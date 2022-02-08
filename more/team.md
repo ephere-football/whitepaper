@@ -1,8 +1,8 @@
 # Team
 
-#### Agu
+![Agu](../.gitbook/assets/Agu.png) ![Héctor](../.gitbook/assets/Hector.png) ![Felipe](../.gitbook/assets/Yazo.png) ![Keli](<../.gitbook/assets/Keli (1).png>) ![Ren](../.gitbook/assets/Renzo.png) ![Nico](../.gitbook/assets/T01EMBNVBQR-U02QVME2WN4-b85fada8554d-512.png) ![Rodri](../.gitbook/assets/RodrigoProfileTemplate.png) ![Santi](../.gitbook/assets/T01EMBNVBQR-U02SY0Q2THS-e2888d9fe4d0-512.png) ![Andrea](../.gitbook/assets/AndreGomez.png) ![Iván](../.gitbook/assets/IvanArce.png)
 
-![](../.gitbook/assets/Agu.png)
+#### Agu
 
 I’m Agu, Founder & CEO of Ephere.
 
@@ -16,7 +16,7 @@ I’m in charge of growth for this amazing universe.
 
 I’ve been a technologist since I can remember. I became hooked on video games since the first time my elder cousins let me join them in days-long Mario Bros sessions over the holidays. I once sold a pair of Jordan sneakers so that I could afford a SNES system. But for as hard as I tried, I could never become involved in video game development — until now.
 
-#### Yazo
+#### Felipe
 
 Hey, I’m Felipe, but you can call me Yazo. I’m Co-founder, Art Director, and Director of Awesomeness at Ephere.
 
@@ -26,8 +26,7 @@ I’m also a tattoo artist, so hit me up whenever you’re ready to get your Eph
 
 #### Keli
 
-Hey! I'm Keli, Ephere's Community Manager Intern. I'll be leading our Discord staff, and managing social media. I always wanted to be a rocket engineer, and actually, I kinda am, because I believe Ephere is a rocket that will fly very, very high. And I will put in all my efforts to make that happen. ![🚀](https://discord.com/assets/748ff0e7b2f1f22adecad8463de25945.svg) If there's anything you need, including playing video games, please hit me up!\
-
+Hey! I'm Keli, Ephere's Community Manager Intern. I'll be leading our Discord staff, and managing social media. I always wanted to be a rocket engineer, and actually, I kinda am, because I believe Ephere is a rocket that will fly very, very high. And I will put in all my efforts to make that happen. ![🚀](https://discord.com/assets/748ff0e7b2f1f22adecad8463de25945.svg) If there's anything you need, including playing video games, please hit me up!
 
 #### Ren
 
@@ -50,3 +49,15 @@ Hi! I'm Rodri and I'm a Software Engineer at Ephere, where I work with a great t
 I'm a huge fan of Boca Juniors and football in general. I live in Buenos Aires and I try to go to the stadium whenever Boca plays at 'La Bombonera'. It's quite an experience.
 
 I'm also a red wine lover, so you can hit me up if you have any recommendations!
+
+#### Santi
+
+Senior Software Engineer
+
+#### Andrea
+
+Fundraiser
+
+#### Iván
+
+Fundraiser

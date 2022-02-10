@@ -1,19 +1,7 @@
-# Allocation & Vesting
-
-| Allocation     | Percentage |      Amount |
-| -------------- | ---------: | ----------: |
-| Advisors       |         3% |   9,000,000 |
-| Core Team      |         2% |   6,000,000 |
-| Marketing      |         6% |  18,000,000 |
-| Private Sale   |         1% |   3,000,000 |
-| Public Sale    |        16% |  48,000,000 |
-| Liquidity Pool |        10% |  30,000,000 |
-| Play to Earn   |        62% | 186,000,000 |
-
-### Vesting schedule
+# Allocation & Unlock schedule
 
 {% embed url="https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ/edit?usp=sharing" %}
-EPH allocation & vesting schedule: [https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ](https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ/edit?usp=sharing)
+EPH allocation & unlock schedule: [https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ](https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ/edit?usp=sharing)
 {% endembed %}
 
 ### Advisors <a href="#13df" id="13df"></a>

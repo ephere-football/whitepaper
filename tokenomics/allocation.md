@@ -22,11 +22,11 @@ Just like any enterprise, Ephere needs the counsel and guidance of more experien
 
 ### Core Team <a href="#5e49" id="5e49"></a>
 
-The core team will take only 2% of the total token supply. These tokens are locked for 1 year. We're commited to build a sunstainable game economy that will last many many years.
+The core team will take only 2% of the total token supply. These tokens will be locked for 1 year.
 
 ### Marketing
 
-6% of the total token supply will go for Marketing campaigns. 20% of these will be unlocked after TGE, and the rest will be unlocked by 10% on a monthly-basis.
+6% of the total token supply will go for Marketing campaigns. 20% of these will be unlocked after TGE, and the rest will be unlocked by batches of 20% on each subsequent quarter.
 
 ### Private Sale <a href="#9119" id="9119"></a>
 
@@ -34,11 +34,11 @@ Are you among the brave? The bold? The early believers? Ephereals who meet this 
 
 ### Public Sale <a href="#e0ef" id="e0ef"></a>
 
-This is a big one: our public token offering will go live in February 2022. These tokens represent 16% of the total supply. 40% of these tokens will be unlocked after TGE, and the rest will be unlocked by 20% on a monthly-basis.
+This is a big one: our public token offering will go live in February 2022. These tokens represent 16% of the total supply. 40% of these tokens will be unlocked after TGE, and the rest will be unlocked by batches of 20% on each subsequent month.
 
 The funds raised through this offering will be allocated as follows:
 
-|                | Percentage |
+| Allocation     | Percentage |
 | -------------- | ---------: |
 | Liquidity pool |        78% |
 | Marketing      |         8% |

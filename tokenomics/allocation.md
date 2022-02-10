@@ -38,29 +38,21 @@ This is a big one: our public token offering will go live in February 2022. Thes
 
 The funds raised through this offering will be allocated as follows:
 
-|   |   |   |
-| - | - | - |
-| w |   |   |
-|   |   |   |
-|   |   |   |
+|                | Percentage |
+| -------------- | ---------: |
+| Liquidity pool |        78% |
+| Marketing      |         8% |
+| Operation      |        14% |
 
-### Public Sale <a href="#e0ef" id="e0ef"></a>
+### Liquidity Pool <a href="#e0ef" id="e0ef"></a>
 
-This is a big one: our public token offering will go live in February 2022. These tokens represent 16% of the total supply. 40% of these tokens will be unlocked after TGE, and the rest will be unlocked by 20% on a monthly-basis.
+10% of the total supply will be allocated to our Liquidity Pool in PancakeSwap. Locked for 1 year.
 
 ### Play to Earn <a href="#3875" id="3875"></a>
 
-_Play-to-earn is at our core_. We wish for Ephereals to reap the most benefit out of the token. It’ll be widely used in gameplay and it’ll be the reward they get for doing what they love: _playing_. It’s only fair that the base of our economy benefits our users. These tokens represent 40% of the total supply and will be smartly and automatically minted by Ephere itself by rewarding specific behaviors such as:
+_Play-to-earn is at our core_. We wish for Ephereals to reap the most benefit out of the token. It’ll be widely used in gameplay and it’ll be the reward they get for doing what they love: _playing_. It’s only fair that the base of our economy benefits our users. These tokens represent 62% of the total supply and will be smartly and automatically minted by Ephere itself by rewarding specific behaviors such as:
 
 * Winning competitions
 * Using the Ephere marketplace
 * Providing NFT and [$EPH](usdeph.md) liquidity (staking them)
 * And many more still to come (as we’re always thinking of innovative and fair behaviors that can yield gains to all Ephereals.)
-
-### &#x20;<a href="#e0ef" id="e0ef"></a>
-
-### &#x20;<a href="#9119" id="9119"></a>
-
-### Reserve <a href="#4d55" id="4d55"></a>
-
-20% of the total supply will remain unminted unless it’s absolutely necessary. The idea of this reserve is to have enough token liquidity to cope with any unforeseen situations. Keeping $EPH valuable is truly important for everyone!

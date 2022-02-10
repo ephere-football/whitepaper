@@ -31,7 +31,7 @@
 ## Tokenomics
 
 * [$EPH](tokenomics/usdeph.md)
-* [Allocation](tokenomics/allocation.md)
+* [Allocation & Vesting](tokenomics/allocation.md)
 
 ## More
 

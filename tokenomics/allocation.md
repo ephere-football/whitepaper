@@ -1,7 +1,11 @@
-# Allocation
+# Allocation & Vesting
+
+## Allocation
+
+![](<../.gitbook/assets/EPH Token Distribution.png>)
 
 {% embed url="https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ/edit?usp=sharing" %}
-EPH vesting & allocation schedule: [https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ](https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ/edit?usp=sharing)
+allocation & EPH vesting  schedule: [https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ](https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ/edit?usp=sharing)
 {% endembed %}
 
 ### Advisors & Marketing <a href="#13df" id="13df"></a>
@@ -18,7 +22,7 @@ _Play-to-earn is at our core_. We wish for Ephereals to reap the most benefit ou
 
 * Winning competitions
 * Using the Ephere marketplace
-* Providing NFT and $EPH liquidity (staking them)
+* Providing NFT and [$EPH](usdeph.md) liquidity (staking them)
 * And many more still to come (as we’re always thinking of innovative and fair behaviors that can yield gains to all Ephereals.)
 
 ### Public Sale <a href="#e0ef" id="e0ef"></a>

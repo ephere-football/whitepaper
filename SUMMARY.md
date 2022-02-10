@@ -31,7 +31,7 @@
 ## Tokenomics
 
 * [$EPH](tokenomics/usdeph.md)
-* [Allocation](tokenomics/allocation.md)
+* [Asignación & Calendario de desbloqueo](tokenomics/allocation.md)
 
 ## More
 

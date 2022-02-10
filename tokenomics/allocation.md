@@ -1,14 +1,14 @@
-# Allocation & Unlock schedule
+# Asignación & Calendario de desbloqueo
 
 {% embed url="https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ/edit?usp=sharing" %}
-EPH allocation & unlock schedule: [https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ](https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ/edit?usp=sharing)
+Asignación de EPH & calendario de desbloqueo: [https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ](https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ/edit?usp=sharing)
 {% endembed %}
 
-### Advisors <a href="#13df" id="13df"></a>
+### Asesores <a href="#13df" id="13df"></a>
 
 Just like any enterprise, Ephere needs the counsel and guidance of more experienced people —their time invested in helping us meet our potential is rewarded with [$EPH](usdeph.md). These tokens represent 3% of the total supply and will be locked for 1 year after TGE. Those who decide to join us in this capacity are big believers in how our economy will work: people with a vested interest in the sustained growth of this model, sporting with a win-win mentality.
 
-### Core Team <a href="#5e49" id="5e49"></a>
+### Equipo <a href="#5e49" id="5e49"></a>
 
 The core team will take only 2% of the total token supply. These tokens will be locked for 1 year.
 
@@ -16,11 +16,11 @@ The core team will take only 2% of the total token supply. These tokens will be 
 
 6% of the total token supply will go for Marketing campaigns. 20% of these will be unlocked after TGE, and the rest will be unlocked by batches of 20% on each subsequent quarter.
 
-### Private Sale <a href="#9119" id="9119"></a>
+### Venta Privada <a href="#9119" id="9119"></a>
 
 Are you among the brave? The bold? The early believers? Ephereals who meet this criteria can currently partake in our private token sale at a huge _**20% discount**_. These tokens represent 1% of the total supply and will be unlocked after TGE.
 
-### Public Sale <a href="#e0ef" id="e0ef"></a>
+### Venta Pública <a href="#e0ef" id="e0ef"></a>
 
 This is a big one: our public token offering will go live in February 2022. These tokens represent 16% of the total supply. 40% of these tokens will be unlocked after TGE, and the rest will be unlocked by batches of 20% on each subsequent month.
 

@@ -2,6 +2,10 @@
 
 * [Ephere](README.md)
 
+## In other languages
+
+* [🇪🇸 Español](https://docs.ephere.football/whitepaper)
+
 ## Ephereals
 
 * [Football player model](ephereals/football-player.md)

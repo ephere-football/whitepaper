@@ -36,4 +36,4 @@
 ## More
 
 * [Roadmap](more/roadmap.md)
-* [Team](more/team.md)
+* [Equipo](more/team.md)

@@ -1,8 +1,6 @@
 # Allocation & Vesting
 
-### Allocation
-
-| Budget         | Percentage |      Amount |
+| Allocation     | Percentage |      Amount |
 | -------------- | ---------: | ----------: |
 | Advisors       |         3% |   9,000,000 |
 | Core Team      |         2% |   6,000,000 |
@@ -15,7 +13,7 @@
 ### Vesting schedule
 
 {% embed url="https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ/edit?usp=sharing" %}
-allocation & EPH vesting  schedule: [https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ](https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ/edit?usp=sharing)
+EPH allocation & vesting schedule: [https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ](https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ/edit?usp=sharing)
 {% endembed %}
 
 ### Advisors & Marketing <a href="#13df" id="13df"></a>

@@ -8,8 +8,8 @@
 
 ## Ephereals
 
-* [Football player model](ephereals/football-player.md)
-* [Football player appearance](ephereals/football-player-appearance.md)
+* [Model](ephereals/football-player.md)
+* [Appearance](ephereals/football-player-appearance.md)
 * [Scarcity](ephereals/scarcity.md)
 * [Talent distribution](ephereals/talent-distribution.md)
 

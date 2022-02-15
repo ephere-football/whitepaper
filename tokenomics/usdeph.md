@@ -1,5 +1,7 @@
 ---
-description: 'Official contract address: 0xfCf71d52d1aD105A4Dcf5809af5Bd560ABDaca0c'
+description: >-
+  Official private sale contract address:
+  0xfCf71d52d1aD105A4Dcf5809af5Bd560ABDaca0c
 ---
 
 # $EPH
@@ -10,12 +12,8 @@ The token will be required to perform several in-game actions such as hiring and
 
 The supply is capped at 300,000,000 and it will be minted strictly as needed.
 
-
-
 ![](../.gitbook/assets/tokenomics.png)
 
-
-
 {% hint style="info" %}
-Official contract: [0xfCf71d52d1aD105A4Dcf5809af5Bd560ABDaca0c](https://bscscan.com/token/0xfCf71d52d1aD105A4Dcf5809af5Bd560ABDaca0c) ([Source code](https://github.com/ephere-football/contracts/blob/master/contracts/EpherERC20.sol))
+Official private sale contract: [0xfCf71d52d1aD105A4Dcf5809af5Bd560ABDaca0c](https://bscscan.com/token/0xfCf71d52d1aD105A4Dcf5809af5Bd560ABDaca0c) ([Source code](https://github.com/ephere-football/contracts/blob/master/contracts/EpherERC20.sol))
 {% endhint %}

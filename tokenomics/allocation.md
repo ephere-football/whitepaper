@@ -18,11 +18,11 @@ The core team will take only 2% of the total token supply. These tokens will be 
 
 ### Private Sale <a href="#9119" id="9119"></a>
 
-Are you among the brave? The bold? The early believers? Ephereals who meet this criteria can currently partake in our private token sale at a huge _**20% discount**_. These tokens represent 1% of the total supply and will be unlocked after TGE.
+Are you among the brave? The bold? The early believers? Ephereals who meet this criteria can currently partake in our private token sale at a huge _**20% discount**_. These tokens represent 2% of the total supply and will be unlocked after TGE.
 
 ### Public Sale <a href="#e0ef" id="e0ef"></a>
 
-This is a big one: our public token offering will go live in February 2022. These tokens represent 16% of the total supply. 40% of these tokens will be unlocked after TGE, and the rest will be unlocked by batches of 20% on each subsequent month.
+This is a big one: our public token offering will go live in February 2022. These tokens represent 15% of the total supply. 40% of these tokens will be unlocked after TGE, and the rest will be unlocked by batches of 20% on each subsequent month.
 
 The funds raised through this offering will be allocated as follows:
 

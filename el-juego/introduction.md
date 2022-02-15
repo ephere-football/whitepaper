@@ -1,4 +1,4 @@
-# Introduction
+# Introducción
 
 ![Game central screen](<../.gitbook/assets/Ephere-UI Animation Test (1).gif>)
 
@@ -23,7 +23,7 @@ The game allows users to earn [$EPH](../tokenomics/usdeph.md) in several ways, i
 
 * Completing game challenges (such as scoring X goals, mantaining Y ball posesion)
 * Finishing at the top of the [league](league.md) rank
-* Using the [marketplace](broken-reference)
+* Using the [marketplace](../gameplay/broken-reference/)
 * Winning [PvE matches](pve.md)
 * Winning [PvP matches](pvp.md)
 * Winning seasonal tournaments

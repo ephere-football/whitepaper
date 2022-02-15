@@ -8,25 +8,25 @@
 
 ## Ephereals
 
-* [Football player model](ephereals/football-player.md)
-* [Football player appearance](ephereals/football-player-appearance.md)
-* [Scarcity](ephereals/scarcity.md)
-* [Talent distribution](ephereals/talent-distribution.md)
+* [Modelo](ephereals/football-player.md)
+* [Apariencia visual](ephereals/football-player-appearance.md)
+* [Escasez](ephereals/scarcity.md)
+* [Distribución del talento](ephereals/talent-distribution.md)
 
-## Gameplay
+## El juego
 
-* [Introduction](gameplay/introduction.md)
-* [Variable $EPH cost & reward](gameplay/variable-usdeph-cost-and-reward.md)
-* [Training](gameplay/training.md)
-* [PvE match](gameplay/pve.md)
-* [PvP match](gameplay/pvp.md)
-* [League](gameplay/league.md)
-* [Scolarships](gameplay/scolarships.md)
+* [Introducción](el-juego/introduction.md)
+* [Costos y recompensas de $EPH variables](el-juego/variable-usdeph-cost-and-reward.md)
+* [Entrenamiento](el-juego/training.md)
+* [Partidos PvE](el-juego/pve.md)
+* [Partidos PvP](el-juego/pvp.md)
+* [Liga](el-juego/league.md)
+* [Scolarships](el-juego/scolarships.md)
 
-## Marketplace
+## Mercado
 
-* [Buying & selling players](marketplace/buying-and-selling-players.md)
-* [Hiring players](marketplace/hiring-players.md)
+* [Comprar y vender jugadores](mercado/buying-and-selling-players.md)
+* [Contratar jugadores](mercado/hiring-players.md)
 
 ## Tokenomics
 

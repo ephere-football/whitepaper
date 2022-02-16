@@ -20,6 +20,10 @@ The core team will take only 2% of the total token supply. These tokens will be 
 
 Are you among the brave? The bold? The early believers? Ephereals who meet this criteria can currently partake in our private token sale at a huge _**20% discount**_. These tokens represent 2% of the total supply and will be unlocked after TGE.
 
+{% hint style="info" %}
+Official private sale contract: [0xfCf71d52d1aD105A4Dcf5809af5Bd560ABDaca0c](https://bscscan.com/token/0xfCf71d52d1aD105A4Dcf5809af5Bd560ABDaca0c)
+{% endhint %}
+
 ### Public Sale <a href="#e0ef" id="e0ef"></a>
 
 This is a big one: our public token offering will go live in February 2022. These tokens represent 15% of the total supply. 40% of these tokens will be unlocked after TGE, and the rest will be unlocked by batches of 20% on each subsequent month.

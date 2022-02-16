@@ -1,7 +1,7 @@
-# Asignación & calendario de desbloqueo
+# Asignación y calendario de desbloqueo
 
 {% embed url="https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ/edit?usp=sharing" %}
-Asignación de EPH & calendario de desbloqueo: [https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ](https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ/edit?usp=sharing)
+Asignación y calendario de desbloqueo de $EPH: [https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ](https://docs.google.com/spreadsheets/d/14dtg2KBaEchDwP8hmflZkVMfPXBG879l8oJ0Oo2bXiQ/edit?usp=sharing)
 {% endembed %}
 
 ### Asesores <a href="#13df" id="13df"></a>
@@ -19,6 +19,10 @@ The core team will take only 2% of the total token supply. These tokens will be 
 ### Venta Privada <a href="#9119" id="9119"></a>
 
 Are you among the brave? The bold? The early believers? Ephereals who meet this criteria can currently partake in our private token sale at a huge _**20% discount**_. These tokens represent 2% of the total supply and will be unlocked after TGE.
+
+{% hint style="info" %}
+Contrato oficial de la venta privada: [0xfCf71d52d1aD105A4Dcf5809af5Bd560ABDaca0c](https://bscscan.com/token/0xfCf71d52d1aD105A4Dcf5809af5Bd560ABDaca0c)
+{% endhint %}
 
 ### Venta Pública <a href="#e0ef" id="e0ef"></a>
 

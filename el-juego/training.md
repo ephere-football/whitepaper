@@ -1,7 +1,7 @@
-# Training
+# Entrenamiento
 
-This game mode allows you train up to 5 players to improve their mental, physical, and technical attributes at the cost of [$EPH](../tokenomics/usdeph.md) and energy.
+Este modo de juego te permite entrenar hasta 5 jugadores para mejorar sus atributos mentales, físicos, y técnicos al costo de [$EPH](../tokenomics/usdeph.md) y energía.
 
-### Drills
+### Simulacros
 
-<table><thead><tr><th>Drill</th><th>Improves</th><th data-type="number">Energy cost (per player)</th><th>$EPH cost</th></tr></thead><tbody><tr><td>Dribbling Entangled Maze</td><td>Dribbling</td><td>10</td><td>~ USD 1</td></tr><tr><td>Defend the Keeper</td><td>Marking</td><td>10</td><td>~ USD 1</td></tr><tr><td>Pass to the Target</td><td>Passing</td><td>10</td><td>~ USD 1</td></tr><tr><td>Long Shot Practice</td><td>Long Shots</td><td>10</td><td>~ USD 1</td></tr></tbody></table>
+<table><thead><tr><th>Nombre</th><th>Habilidad mejorada</th><th data-type="number">Costo de energía (por jugador)</th><th>Costo de $EPH</th></tr></thead><tbody><tr><td>Dribbling Entangled Maze</td><td>Regate</td><td>10</td><td>~ USD 1</td></tr><tr><td>Defend the Keeper</td><td>Marca</td><td>10</td><td>~ USD 1</td></tr><tr><td>Pass to the Target</td><td>Pase</td><td>10</td><td>~ USD 1</td></tr><tr><td>Long Shot Practice</td><td>Tiro Largo</td><td>10</td><td>~ USD 1</td></tr></tbody></table>

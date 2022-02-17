@@ -8,7 +8,7 @@
 
 ## Ephereals
 
-* [Modelo de datos](ephereals/football-player.md)
+* [Modelo](ephereals/football-player.md)
 * [Apariencia visual](ephereals/football-player-appearance.md)
 * [Escasez](ephereals/scarcity.md)
 * [Distribución del talento](ephereals/talent-distribution.md)

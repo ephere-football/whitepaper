@@ -1,8 +1,8 @@
 ---
-description: 'Official contract address: 0xF48b4c5E2C7115Fb696b5401648D47E07a83194C'
+description: 'Dirección oficial del contrato: 0xF48b4c5E2C7115Fb696b5401648D47E07a83194C'
 ---
 
-# Modelo
+# Modelo de datos
 
 En Ephere, los jugadores son activos digitales no-fungibles, transferibles, y escasos almacenados en un contrato inteligente que utiliza el estándar ERC-721 (también conocido como NFT) en la red [Binance Smart Chain](https://coinmarketcap.com/alexandria/article/what-is-binance-smart-chain).
 

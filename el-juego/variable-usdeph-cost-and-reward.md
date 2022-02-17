@@ -1,11 +1,11 @@
-# Variable $EPH cost & reward
+# Costos y recompensas de $EPH variables
 
-To provide a stable and predictable gameplay cost & reward, Ephere's economy is balanced around a set dollar value. That means that in-game [$EPH](../tokenomics/usdeph.md) costs and rewards will be adjusted based on the USD price of 1 [$EPH](../tokenomics/usdeph.md) token, ensuring that the USD value of the costs and rewards stays the same for all users at any moment in time.
+Para proporcionar costos y recompensas de juego estables y predecibles, la economía de Ephere se equilibra en torno a un valor monetario fijo en USD. Eso significa que los costos y recompensas de [$EPH](../tokenomics/usdeph.md) en el juego se ajustarán en función del precio en USD de 1 token de [$EPH](../tokenomics/usdeph.md), lo que garantiza que el valor en USD de los costos y recompensas se mantenga igual para todos los usuarios en cualquier momento.
 
-The reason behind this decision is that, as the [$EPH](../tokenomics/usdeph.md) max supply is fixed, the USD price of the token will tend to go up as the game is more demanded, which will incentivize people to move [$EPH](../tokenomics/usdeph.md) out of Ephere's economy, leading to very high gameplay costs.&#x20;
+La razón detrás de esta decisión es que, dado que el suministro máximo de [$EPH](../tokenomics/usdeph.md) es fijo, el precio en USD del token tenderá a subir a medida que el juego sea más demandado, lo que incentivará a las personas a sacar [$EPH](../tokenomics/usdeph.md) de la economía de Ephere, lo que conducirá a costos de juego muy altos.
 
-By utilizing this balancing mechanism we form a correlation between active users and the dollar value of [$EPH](../tokenomics/usdeph.md), protecting users from wild fluctuations in the market price, and maintaining for extended --and sustainable-- periods of time the costs and rewards of the game.
+Al utilizar este mecanismo de equilibrio, formamos una correlación entre los usuarios activos y el valor en dólares de [$EPH](../tokenomics/usdeph.md), protegiendo a los usuarios de las fluctuaciones bruscas en el precio del mercado y manteniendo durante períodos prolongados y sostenibles los costos y las recompensas del juego.
 
 {% hint style="info" %}
-The [$EPH](../tokenomics/usdeph.md) costs and rewards specified in the Gameplay and Marketplace sections of this Whitepaper will be expressed as the approximate USD value of the [$EPH](../tokenomics/usdeph.md) cost or reward.
+Los costos y recompensas de [$EPH](../tokenomics/usdeph.md) especificados en las secciones de Gameplay y Marketplace de este Whitepaper serán expresados como el valor aproximado en USD de [$EPH](../tokenomics/usdeph.md).
 {% endhint %}

@@ -21,7 +21,7 @@
 * [Partidos PvE](el-juego/pve.md)
 * [Partidos PvP](el-juego/pvp.md)
 * [Liga](el-juego/league.md)
-* [Scolarships](el-juego/scolarships.md)
+* [Becas](el-juego/scolarships.md)
 
 ## Mercado
 

@@ -1,9 +1,9 @@
-# Liga
+# League
 
-Cuando te registres como nuevo usuario, se te asignará automáticamente a una liga con espacio libre. Cada liga consta de 16 equipos. Si ya no hay ligas disponibles, se creará una nueva liga. Las ligas siguen una estructura jerárquica:
+When you sign up as a new user, you will be automatically assigned to a league with free space. Each league consists of 16 teams. If there are no free leagues available anymore, a new league will be created. Leagues follow a hierarchical structure:
 
 ![](../.gitbook/assets/221b.png)
 
-Cada equipo juega contra otro equipo en la misma liga dos veces por temporada. Como hay 16 clubes por liga, juegas 30 partidos por temporada. Los partidos de liga se juegan una vez al día, por lo que una temporada durará alrededor de un mes.
+Each team plays each other team in the same league twice per season. As there are 16 clubs per league, you play 30 matches per season. League matches are played once a day, so a season will last around a month.
 
-Al final de la temporada, los 4 equipos en la parte superior de cada liga ascenderán al siguiente nivel superior de la liga. Asimismo, los 4 equipos más débiles de cada liga serán relegados a una liga con un nivel de uno menor a la liga actual. Los 4 equipos en la parte superior de la liga recibirán recompensas de [$EPH](../tokenomics/usdeph.md) según su posición.
+At the end of the season, the 4 teams at the top of each league will be promoted to the next higher league level. Likewise, the weakest 4 teams of each league will be relegated to a league with a level one below the current league. The 4 teams at the top of the league will receive [$EPH](../tokenomics/usdeph.md) rewards according to their position.

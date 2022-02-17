@@ -1,30 +1,30 @@
 # Introducción
 
-![Game central screen](<../.gitbook/assets/Ephere-UI Animation Test (1).gif>)
+![Pantalla central del juego](<../.gitbook/assets/Ephere-UI Animation Test (1).gif>)
 
-The game revolves around managing your own football team which includes hiring football players, setting the team's lineup, in-match strategy, and managing its infrastructure (training facilities, stadium, etc) to maximize your chances of winning matches, competitions, and completing challenges and earn [$EPH](../tokenomics/usdeph.md) cryptocurrency along the way.
+El juego gira en torno a la gestión de tu propio equipo de fútbol, lo que incluye contratar jugadores de fútbol, ajustar la alineación del equipo, la estrategia en partido, y gestionar la infraestructura (instalaciones de entrenamiento, estadio, etc) para maximizar tus posibilidades de ganar partidos, competiciones, y completar desafíos y así obtener [$EPH](../tokenomics/usdeph.md) (criptomoneda).
 
 {% hint style="info" %}
-Unlike football fantasy games based on blockchain technology, Ephere is built around a complex football simulation engine that allows users to express their creativity, ingenuity, and strategic thinking to maximize their chance of success. Unlike other football management simulation games (with complex football simulation engines), Ephere is a blockchain-based decentralized application built around a play-to-earn economy.
+A diferencia de los juegos de fantasía de fútbol basados en la tecnología blockchain, Ephere se basa en un complejo motor de simulación de fútbol que permite a los usuarios expresar su creatividad, ingenio y pensamiento estratégico para maximizar sus posibilidades de éxito. A diferencia de otros juegos de simulación y gestión de fútbol (con complejos motores de simulación de fútbol), Ephere es una aplicación descentralizada basada en blockchain creada en torno a una economía _play-to-earn_.
 {% endhint %}
 
-### Game modes
+### Modos de juego
 
-There are four main game modes. Each one has a different [$EPH](../tokenomics/usdeph.md) entry cost, requires different amount of energy, and provides different rewards.
+Hay cuatro modos de juego principales. Cada uno tiene un costo de entrada diferente en [$EPH](../tokenomics/usdeph.md), requiere distintas cantidades de energía, y provee diferentes recompensas.
 
-* [Training](training.md): you pick up to 5 players to perform a pre-defined training session
-* [PvE](pve.md): your team plays against our AI
-* [PvP](pvp.md): your team plays against another user's team with similar OVR
-* [League](league.md): your team recurrently plays matches in a hierarchical league
+* [Entrenamiento](training.md): eliges hasta 5 jugadores para realizar una sesión de entrenamiento predefinida.
+* [PvE](pve.md): tu equipo juega contra nuestra inteligencia artificial.
+* [PvP](pvp.md): tu equipo juega contra el equipo de otro jugador con un OVR similar.
+* [League](league.md): tu equipo juega partidos de forma recurrente en un sistema jerárquico de ligas.
 
-### Play to earn
+### Play to Earn
 
-The game allows users to earn [$EPH](../tokenomics/usdeph.md) in several ways, including:
+El juego permite a los usuarios ganar [$EPH](../tokenomics/usdeph.md) de varias maneras, incluyendo:
 
-* Completing game challenges (such as scoring X goals, mantaining Y ball posesion)
-* Finishing at the top of the [league](league.md) rank
-* Using the [marketplace](../gameplay/broken-reference/)
-* Winning [PvE matches](pve.md)
-* Winning [PvP matches](pvp.md)
-* Winning seasonal tournaments
-* (and many more still in the works)
+* Completar desafíos del juego (como marcar X goles, mantener Y posición del balón).
+* Terminar en la parte superior de la clasificación de la [liga](league.md).
+* Usar el [mercado](broken-reference).
+* Ganar [partidos PvE](pve.md).
+* Ganar [partidos PvP](pvp.md).
+* Ganar torneos de temporada.
+* (y muchos más aún en proceso)

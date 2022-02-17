@@ -14,11 +14,11 @@ El equipo desarrollo tomará sólo el 2 % del suministro total. Estos token esta
 
 ### Marketing
 
-6 % del suministro total irá para campañas de Marketing. De estos, 20 % será desbloqueado después del [TGE](https://decrypt.co/resources/token-generation-events-what-are-they-guide), y el resto será desbloqueado en tandas de 20 % en cada trimeste subsiguiente.
+6 % del suministro total irá para campañas de Marketing. El 20 % será desbloqueado después del [TGE](https://decrypt.co/resources/token-generation-events-what-are-they-guide), y el resto se desbloqueará en lotes del 20 % cada trimestre subsiguiente.
 
 ### Venta Privada <a href="#9119" id="9119"></a>
 
-Are you among the brave? The bold? The early believers? Ephereals who meet this criteria can currently partake in our private token sale at a huge _**20% discount**_. These tokens represent 2% of the total supply and will be unlocked after TGE.
+¿Estás entre los valientes? ¿Los audaces? ¿Los primeros creyentes? Los Ephereals que cumplan con este criterio pueden participar de nuestra venta privada con un gran _**descuento del 20 %**_. Estos tokens representan el 2 % del suministro total y serán desbloqueados después del [TGE](https://decrypt.co/resources/token-generation-events-what-are-they-guide).
 
 {% hint style="info" %}
 Contrato oficial de la venta privada: [0xfCf71d52d1aD105A4Dcf5809af5Bd560ABDaca0c](https://bscscan.com/token/0xfCf71d52d1aD105A4Dcf5809af5Bd560ABDaca0c)
@@ -26,25 +26,24 @@ Contrato oficial de la venta privada: [0xfCf71d52d1aD105A4Dcf5809af5Bd560ABDaca0
 
 ### Venta Pública <a href="#e0ef" id="e0ef"></a>
 
-This is a big one: our public token offering will go live in February 2022. These tokens represent 15% of the total supply. 40% of these tokens will be unlocked after TGE, and the rest will be unlocked by batches of 20% on each subsequent month.
+Este es uno grande: nuestra oferta pública de tokens se lanzará en febrero de 2022. Estos tokens representan el 15 % del suministro total. El 40 % de estos tokens se desbloqueará después de [TGE](https://decrypt.co/resources/token-generation-events-what-are-they-guide), y el resto se desbloqueará en lotes del 20 % cada mes subsiguiente.
 
-The funds raised through this offering will be allocated as follows:
+Los fondos recaudados a través de esta oferta se distribuirán de la siguiente manera:
 
-| Allocation     | Percentage |
+| Asignación     | Porcentaje |
 | -------------- | ---------: |
 | Liquidity pool |        78% |
 | Marketing      |         8% |
-| Operation      |        14% |
+| Operaciones    |        14% |
 
 ### Liquidity Pool <a href="#e0ef" id="e0ef"></a>
 
-10% of the total supply will be allocated to our Liquidity Pool in PancakeSwap. Locked for 1 year.
+El 10 % del suministro total se asignará a nuestro fondo de liquidez en PancakeSwap. Bloqueado por 1 año.
 
 ### Play to Earn <a href="#3875" id="3875"></a>
 
-_Play-to-earn is at our core_. We wish for Ephereals to reap the most benefit out of the token. It’ll be widely used in gameplay and it’ll be the reward they get for doing what they love: _playing_. It’s only fair that the base of our economy benefits our users. These tokens represent 62% of the total supply and will be smartly and automatically minted by Ephere itself by rewarding specific behaviors such as:
+_Play-to-Earn_ es nuestro núcleo. Deseamos que los Ephereals obtengan el mayor beneficio del token. Será muy utilizado en el juego y será la recompensa que obtengan por hacer lo que aman: jugar. Es justo que la base de nuestra economía beneficie a nuestros usuarios. Estos tokens representan el 62 % del suministro total y Ephere los emitirá de manera inteligente y automática recompensando comportamientos específicos como:
 
-* Winning competitions
-* Using the Ephere marketplace
-* Providing NFT and [$EPH](usdeph.md) liquidity (staking them)
-* And many more still to come (as we’re always thinking of innovative and fair behaviors that can yield gains to all Ephereals.)
+* Ganar partidos y competiciones.
+* Proveer liquidez de NFT y [$EPH](usdeph.md).
+* Y muchos más por venir (ya que siempre estamos pensando en comportamientos innovadores y justos que puedan generar ganancias para todos los Ephereals).

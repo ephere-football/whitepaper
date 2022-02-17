@@ -5,6 +5,7 @@
 ## En otros idiomas
 
 * [🇬🇧 English](https://docs.ephere.football/whitepaper)
+* [🇧🇷 Português](https://docs.ephere.football/whitepaper-pt)
 
 ## Ephereals
 

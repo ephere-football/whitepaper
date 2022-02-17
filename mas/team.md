@@ -1,4 +1,4 @@
-# Team
+# Equipo
 
 ![Agu](../.gitbook/assets/Agu.png) ![Héctor](../.gitbook/assets/Hector.png) ![Felipe](../.gitbook/assets/Yazo.png) ![Keli](<../.gitbook/assets/Keli (1).png>) ![Ren](../.gitbook/assets/Renzo.png) ![Nico](../.gitbook/assets/T01EMBNVBQR-U02QVME2WN4-b85fada8554d-512.png) ![Rodri](../.gitbook/assets/RodrigoProfileTemplate.png) ![Santi](../.gitbook/assets/T01EMBNVBQR-U02SY0Q2THS-e2888d9fe4d0-512.png) ![Andrea](../.gitbook/assets/AndreGomez.png) ![Iván](../.gitbook/assets/IvanArce.png)
 
@@ -6,47 +6,47 @@
 
 I’m Agu, Founder & CEO of Ephere.
 
-I envision a world where people can work doing the thing they love. That’s why we are building Ephere, a football game where people can play to earn. Some fun’t facts about me: I like stoicism, I can fly planes, I mostly use plain B/W T-Shirts (though I’m slowly changing my uniform to a more colorful version 😜), and I’ll go to space someday.
+Imagino un mundo en el que las personas pueden trabajar haciendo lo que aman. Por eso estamos construyendo Ephere, un juego de fútbol donde las personas pueden jugar para ganar. Algunos datos divertidos sobre mí: me gusta el estoicismo, puedo pilotear aviones, suelo usar camisetas blancas o negras (aunque poco a poco estoy cambiando mi uniforme a una versión más colorida 😜), y voy a ir al espacio algún día.
 
 #### [Héctor](https://www.linkedin.com/in/hectorituarte/)
 
-I’m in charge of growth for this amazing universe.
+Estoy a cargo del crecimiento de este increíble universo.
 
-I’ve been a technologist since I can remember. I became hooked on video games since the first time my elder cousins let me join them in days-long Mario Bros sessions over the holidays. I once sold a pair of Jordan sneakers so that I could afford a SNES system. But for as hard as I tried, I could never become involved in video game development — until now.
+He sido tecnólogo desde que tengo memoria. Comencé a jugar videojuegos desde la primera vez que mis primos mayores me permitieron unirme a ellos en sesiones de días de Mario Bros durante las vacaciones. Una vez vendí un par de zapatillas Jordan para poder pagar una consola de SNES. Pero por mucho que lo intenté, nunca pude involucrarme en el desarrollo de videojuegos, hasta ahora.
 
 #### [Felipe](https://www.linkedin.com/in/felipe-collazo-70028b92/)
 
-Hey, I’m Felipe, but you can call me Yazo. I’m Co-founder, Art Director, and Director of Awesomeness at Ephere.
+Hey, soy Felipe, pero puedes decirme Yazo, Soy Co-Founder, Art Director y Director of Awesomeness en Ephere.&#x20;
 
-When I’m not behind my desk crafting Ephereals, I’m probably out biking, watching Blade Runner for the 92nd time, or trying to communicate with a random cat I just met.
+Cuando no estoy detrás de mi escritorio creando Ephereals, posiblemente esté fuera andando en bicicleta, mirando Blade Runner por 92ª vez, o tratando de comunicarme con un gato que acabo de conocer al azar.
 
-I’m also a tattoo artist, so hit me up whenever you’re ready to get your Ephereal permanently inked to the side of your face.
+También soy tatuador así que llámame cuando estés listo para tatuarte tu Ephereal en un lado de tu cara.
 
 #### [Keli](https://www.linkedin.com/in/ornella-porras-7178ba224/)
 
-Hey! I'm Keli, Ephere's Community Manager Intern. I'll be leading our Discord staff, and managing social media. I always wanted to be a rocket engineer, and actually, I kinda am, because I believe Ephere is a rocket that will fly very, very high. And I will put in all my efforts to make that happen. 🚀 If there's anything you need, including playing video games, please hit me up!
+Hey! Soy Keli, Comunnity Manager Interna en Ephere. Estaré liderando nuestro staff de Discord y manejando redes sociales. Siempre quise ser una Ingeniera de Cohetes, y realmente, de cierta forma lo soy, porque siento que Ephere es un cohete que volará muy, muy alto. Y pondré todo de mí para hacer que eso suceda 🚀. Si hay algo que necesites, incluyendo jugar videojuegos, ¡contáctame!
 
 #### [Ren](https://www.linkedin.com/in/renzodogliotti/)
 
-I'm Ren, Sofware Engineer Intern at Ephere.
+Soy Ren, Sofware Engineer Intern en Ephere.
 
-I have been in computer science for more than 10 years, an enthusiast of the blockchain world and especially of NFT games, it is a dream to be part of this project that is going to change lives.
+Llevo más de 10 años en informática, apasionado del mundo blockchain y en especial de los juegos NFT, es un sueño formar parte de este proyecto que va a cambiar vidas.
 
 #### [Nico](https://www.linkedin.com/in/nicolas-agustin-rodriguez/)
 
-Hi, I’m Nicolás and I’m a full-stack software engineer at Ephere.
+Hola, soy Nicolás y soy full-stack Software Engineer en Ephere.
 
-I’ve been addicted to technology since I was young and I really enjoy learning new technologies every day. Nowadays I’m fully obsessed with blockchain and decentralization.
+He sido adicto a la tecnología desde que era joven y disfruto mucho aprendiendo nuevas tecnologías todos los días. Hoy en día estoy obsesionado con blockchain y descentralización.
 
-Dad of 2 beautiful girls, and fan of Defensores de Belgrano. I’m from Buenos Aires, Argentina.
+Papá de 2 hermosas niñas, e hincha de Defensores de Belgrano. Soy de Buenos Aires, Argentina.
 
 #### [Rodri](https://www.linkedin.com/in/rodrigomelon/)
 
-Hi! I'm Rodri and I'm a Software Engineer at Ephere, where I work with a great team crafting some cool stuff.
+¡Hola! Soy Rodri y soy Software Engineer en Ephere, donde trabajo con un gran equipo creando cosas geniales.
 
-I'm a huge fan of Boca Juniors and football in general. I live in Buenos Aires and I try to go to the stadium whenever Boca plays at 'La Bombonera'. It's quite an experience.
+Soy un gran fanático de Boca Juniors y del fútbol en general. Vivo en Buenos Aires y trato de ir al estadio cada vez que Boca juega en 'La Bombonera'. Es toda una experiencia.
 
-I'm also a red wine lover, so you can hit me up if you have any recommendations!
+También soy un amante del vino tinto, ¡así que puedes contactarme si tienes alguna recomendación!
 
 #### [Santi](https://www.linkedin.com/in/santiago-rangel-mora-a71238191/)
 

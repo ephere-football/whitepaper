@@ -4,6 +4,5 @@ To play Ephere, you'll need a squad of —at least— 11 players. There are mult
 
 To provide a better experience when doing so, we'll provide our own marketplace which will offer some advantages:
 
-* You'll earn [$EPH](../tokenomics/usdeph.md) for every in-market transaction.
 * Players transferred in Ephere's marketplace will preserve their improvements (Experience or trained skills, for example).
 * It'll have a more powerful search engine, tailored for Ephere's game.

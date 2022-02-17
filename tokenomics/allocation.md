@@ -6,15 +6,15 @@ Asignación y calendario de desbloqueo de $EPH: [https://docs.google.com/spreads
 
 ### Asesores <a href="#13df" id="13df"></a>
 
-Just like any enterprise, Ephere needs the counsel and guidance of more experienced people —their time invested in helping us meet our potential is rewarded with [$EPH](usdeph.md). These tokens represent 3% of the total supply and will be locked for 1 year after TGE. Those who decide to join us in this capacity are big believers in how our economy will work: people with a vested interest in the sustained growth of this model, sporting with a win-win mentality.
+Como cualquier empresa, Ephere necesita el consejo y la guía de personas más experientes —el tiempo que ellos invierten ayudándonos a dar nuestro máximo es recompensado con [$EPH](usdeph.md). Estos token represetan el 3 % del suministro total y estarán bloqueados por un año luego del [TGE](https://decrypt.co/resources/token-generation-events-what-are-they-guide).
 
 ### Equipo <a href="#5e49" id="5e49"></a>
 
-The core team will take only 2% of the total token supply. These tokens will be locked for 1 year.
+El equipo desarrollo tomará sólo el 2 % del suministro total. Estos token estarán bloqueados por un año luego del [TGE](https://decrypt.co/resources/token-generation-events-what-are-they-guide).
 
 ### Marketing
 
-6% of the total token supply will go for Marketing campaigns. 20% of these will be unlocked after TGE, and the rest will be unlocked by batches of 20% on each subsequent quarter.
+6 % del suministro total irá para campañas de Marketing. De estos, 20 % será desbloqueado después del [TGE](https://decrypt.co/resources/token-generation-events-what-are-they-guide), y el resto será desbloqueado en tandas de 20 % en cada trimeste subsiguiente.
 
 ### Venta Privada <a href="#9119" id="9119"></a>
 

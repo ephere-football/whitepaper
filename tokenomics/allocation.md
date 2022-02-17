@@ -42,9 +42,8 @@ The funds raised through this offering will be allocated as follows:
 
 ### Play to Earn <a href="#3875" id="3875"></a>
 
-_Play-to-earn is at our core_. We wish for Ephereals to reap the most benefit out of the token. It’ll be widely used in gameplay and it’ll be the reward they get for doing what they love: _playing_. It’s only fair that the base of our economy benefits our users. These tokens represent 62% of the total supply and will be smartly and automatically minted by Ephere itself by rewarding specific behaviors such as:
+_Play-to-Earn is at our core_. We wish for Ephereals to reap the most benefit out of the token. It’ll be widely used in gameplay and it’ll be the reward they get for doing what they love: _playing_. It’s only fair that the base of our economy benefits our users. These tokens represent 62% of the total supply and will be smartly and automatically minted by Ephere itself by rewarding specific behaviors such as:
 
-* Winning competitions
-* Using the Ephere marketplace
-* Providing NFT and [$EPH](usdeph.md) liquidity (staking them)
+* Winning competitions.
+* Providing NFT and [$EPH](usdeph.md) liquidity (staking them).
 * And many more still to come (as we’re always thinking of innovative and fair behaviors that can yield gains to all Ephereals.)

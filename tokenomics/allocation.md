@@ -6,11 +6,11 @@ $EPH allocation & unlock schedule: [https://docs.google.com/spreadsheets/d/14dtg
 
 ### Advisors <a href="#13df" id="13df"></a>
 
-Just like any enterprise, Ephere needs the counsel and guidance of more experienced people —their time invested in helping us meet our potential is rewarded with [$EPH](usdeph.md). These tokens represent 3% of the total supply and will be locked for 1 year after TGE. Those who decide to join us in this capacity are big believers in how our economy will work: people with a vested interest in the sustained growth of this model, sporting with a win-win mentality.
+Just like any enterprise, Ephere needs the counsel and guidance of more experienced people —their time invested in helping us meet our potential is rewarded with [$EPH](usdeph.md). These tokens represent 3% of the total supply and will be locked for 1 year after [TGE](https://decrypt.co/resources/token-generation-events-what-are-they-guide).
 
 ### Core Team <a href="#5e49" id="5e49"></a>
 
-The core team will take only 2% of the total token supply. These tokens will be locked for 1 year.
+The core team will take only 2% of the total token supply. These tokens will be locked for 1 year after [TGE](https://decrypt.co/resources/token-generation-events-what-are-they-guide).
 
 ### Marketing
 

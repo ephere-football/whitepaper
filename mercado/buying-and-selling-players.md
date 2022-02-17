@@ -1,9 +1,8 @@
-# Buying & selling players
+# Comprar y vender jugadores
 
-To play Ephere, you'll need a squad of —at least— 11 players. There are multiple ways of acquiring them. One is to buy them from other people. As players are provided as NFT, you can buy/sell/give/transfer them anytime you want, in the NFT market of your preference.
+Para jugar a Ephere, necesitarás una plantilla de —al menos— 11 jugadores. Hay múltiples formas de adquirirlos. Una es comprándoselos a otras personas. Como los jugadores se proporcionan como NFTs, pueden ser comprados/vendidos/regalados/transferidos siempre que su propietario lo desee, en el mercado NFT de su preferencia.
 
-To provide a better experience when doing so, we'll provide our own marketplace which will offer some advantages:
+Para brindar una mejor experiencia al hacerlo, proporcionaremos nuestro propio mercado que ofrecerá algunas ventajas:
 
-* You'll earn [$EPH](../tokenomics/usdeph.md) for every in-market transaction.
-* Players transferred in Ephere's marketplace will preserve their improvements (Experience or trained skills, for example).
-* It'll have a more powerful search engine, tailored for Ephere's game.
+* Los jugadores transferidos en el mercado de Ephere conservarán sus mejoras (Experiencia o habilidades entrenadas, por ejemplo).
+* Tendrá un motor de búsqueda más potente, adaptado al juego de Ephere.

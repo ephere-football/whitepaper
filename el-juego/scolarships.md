@@ -1,3 +1,3 @@
-# Becas
+# Scolarships
 
-El propietario de un equipo podrán asignar un administrador y dividir las ganancias de las recompensas en el juego.
+Team owners will be able to assign a Team manager and split in-game rewards profits.

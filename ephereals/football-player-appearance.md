@@ -4,11 +4,11 @@ Queremos que nuestros usuarios _amen_ a sus jugadores, pero es difícil amar a u
 
 Hay dos formas de determinar la apariencia visual de un Ephereal. Para la mayoría de ellos es por su código genético, un número en el modelo de datos que determina diferentes rasgos. Cada rasgo corresponde a una parte del cuerpo distinta. Estas partes son entonces combinadas para producir la imagen final. Entre tantos distintos rasgos **hay más de seis mil millones de combinaciones posibles**.
 
-![Algorithmically generated images](../.gitbook/assets/algorithmic.png)
+![Imágenes generadas algoritmicamente](../.gitbook/assets/algorithmic.png)
 
 Para algunos jugadores muy raros o de edición limitada, la apariencia visual será creada por nuestros artistas.
 
-![Manually crafted images](<../.gitbook/assets/Whitepaper - crafted.png>)
+![Imágenes creadas manualmente](<../.gitbook/assets/Whitepaper - crafted.png>)
 
 ### Personalización
 

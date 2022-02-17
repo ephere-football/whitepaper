@@ -1,15 +1,15 @@
-# PvE match
+# Partidos PvE
 
-![Match screen](<../.gitbook/assets/Ephere-UI Match.gif>)
+![Pantalla de juego](<../.gitbook/assets/Ephere-UI Match.gif>)
 
-This game mode allows you put your team to play a 11vs11 match against our AI. The AI difficulty will be automatically adjusted according to the OVR of your squad.
+Este modo de juego te permite poner a tu equipo a jugar un partido 11vs11 contra nuestra IA. La dificultad de la IA se ajustará automáticamente según el OVR de tu escuadra.
 
-| Property                 | Value                   |
-| ------------------------ | ----------------------- |
-| Energy cost (per player) | 0.2222 per match minute |
-| $EPH cost                | Free to play            |
-| $EPH reward for winning  | \~ USD 4.5              |
+| Propiedad                      | Valor                        |
+| ------------------------------ | ---------------------------- |
+| Costo de energía (por jugador) | 0.2222 por minuto de partido |
+| Costo de $EPH                  | Gratis                       |
+| Recompensa de $EPH por ganar   | \~ USD 4.5                   |
 
 {% hint style="info" %}
-PvE matches are free to play. You can play up to 3 matches per day, as long as your players have enough energy. Remember that using tired players highly increases the chances of them getting injured.
+Los partidos PvE son gratuitos. Puedes jugar hasta 3 partidos por día, siempre que tus jugadores tengan suficiente energía. Recuerda que usar jugadores cansados aumenta altamente las probabilidades de que estos se lesionen.
 {% endhint %}

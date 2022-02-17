@@ -33,7 +33,7 @@
 * [$EPH](tokenomics/usdeph.md)
 * [Asignación y calendario de desbloqueo](tokenomics/allocation.md)
 
-## More
+## Más
 
-* [Roadmap](more/roadmap.md)
-* [Equipo](more/team.md)
+* [Planificación](mas/roadmap.md)
+* [Equipo](mas/team.md)

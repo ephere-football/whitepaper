@@ -1,15 +1,15 @@
-# PvP match
+# Partidos PvP
 
-This game mode allows you put your team to play a 11vs11 match against the team of another user. When you submit your squad and tactics you will be added to the match-making queue until another team with similar OVR is available for a PvP match.
+Este modo de juego te permite poner a tu equipo a jugar un partido 11vs11 contra el equipo de otro usuario. Cuando envíes tu escuadra y tus tácticas, se te agregará a la cola de emparejamiento hasta que otro equipo con OVR similar esté disponible para un partido PvP.
 
-To play PvP matches users have to pay $EPH. The winner receives \~ USD 1 from the Play To Earn budget plus 99% of the match stake (Ephere takes the remaining 1%). This means that when you win a PvP match you're doubling your $EPH investment.
+Para jugar partidas PvP, los usuarios deben pagar [$EPH](../tokenomics/usdeph.md). El ganador recibe \~ 1 USD  del presupuesto de Play To Earn más el 99 % de la apuesta del partido (Ephere se queda con el 1 % restante). Esto significa que cuando ganas una partida PvP estás duplicando tu inversión en [$EPH](../tokenomics/usdeph.md).
 
-| Property                 | Value                   |
-| ------------------------ | ----------------------- |
-| Energy cost (per player) | 0.3333 per match minute |
-| $EPH cost                | \~ USD 10               |
-| $EPH reward for winning  | \~ USD 20.8             |
+| Propiedad                      | Valor                        |
+| ------------------------------ | ---------------------------- |
+| Costo de energía (por jugador) | 0.3333 por minuto de partido |
+| Costo de $EPH                  | \~ USD 10                    |
+| Recompensa de $EPH por ganar   | \~ USD 20.8                  |
 
 {% hint style="info" %}
-You can play up to 2 matches per day, as long as your players have enough energy. Remember that using tired players highly increases the chances of them getting injured.
+Puedes jugar hasta 2 partidos por día, siempre que tus jugadores tengan suficiente energía. Recuerda que usar jugadores cansados aumenta altamente las probabilidades de que estos se lesionen.
 {% endhint %}

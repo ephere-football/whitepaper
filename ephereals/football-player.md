@@ -2,36 +2,36 @@
 description: 'Official contract address: 0xF48b4c5E2C7115Fb696b5401648D47E07a83194C'
 ---
 
-# Football player model
+# Modelo
 
-In Ephere, football players are non-fungible, transferable, and scarce digital assets stored in a smart contract implementing the ERC-721 standard (also known as NFT) in the [Binance Smart Chain](https://coinmarketcap.com/alexandria/article/what-is-binance-smart-chain).
+En Ephere, los jugadores son activos digitales no-fungibles, transferibles, y escasos almacenados en un contrato inteligente que utiliza el estándar ERC-721 (también conocido como NFT) en la red [Binance Smart Chain](https://coinmarketcap.com/alexandria/article/what-is-binance-smart-chain).
 
-They have mental and physical attributes, trainable football skills that are capped by genetic and distinctive visual properties, some of which can be changed by their owner. Players gain experience by playing matches, and they can also get tired, injured, grow old, and retire — _they’re alive_.
+Estos tienen atributos físicos y mentales, habilidades futbolísticas entrenables que están limitadas por la genética y propiedades visuales distintivas, algunas de las cuales pueden ser cambiadas por el dueño. Los jugadores obtienen experiencia jugando partidos, y también pueden cansarse, lesionarse, envejecer, y retirarse — _están vivos_.
 
 {% hint style="info" %}
-Official contract: [0xF48b4c5E2C7115Fb696b5401648D47E07a83194C](https://bscscan.com/token/0xF48b4c5E2C7115Fb696b5401648D47E07a83194C) ([Source code](https://github.com/ephere-football/contracts/blob/master/contracts/EphereFootballerERC721.sol))
+Contrato oficial: [0xF48b4c5E2C7115Fb696b5401648D47E07a83194C](https://bscscan.com/token/0xF48b4c5E2C7115Fb696b5401648D47E07a83194C) ([Source code](https://github.com/ephere-football/contracts/blob/master/contracts/EphereFootballerERC721.sol))
 {% endhint %}
 
-### Attributes & skills
+### Atributos y habilidades
 
-We want Ephere to be a fun game in which people can express their creativity, ingenuity, and strategic thinking to maximize their chance of success. To accomplish that we need a complex football match simulation engine with the capacity to simulate a wide range of football situations. And that needs a complex football player data model. That’s why our players have a broad set of attributes that describe several aspects of their uniqueness:
+Queremos que Ephere sea un juego divertido en el que las personas puedan expresar su creatividad, ingenio y pensamiento estratégico para maximizar sus posibilidades de éxito. Para lograr esto necesitamos un motor de simulación de partidos complejo con la capacidad de simular un gran rango de situaciones. Esto también amerita un modelo de datos de los jugadores que sea complejo. Por esto es que nuestros jugadores tienen un amplio conjunto de atributos que describen varios aspectos que los hacen únicos:
 
 {% embed url="https://gist.github.com/agurodriguez/7bfb9a0683f0b5e08baf36451e146c96#file-ephere-football-player-csv" %}
 
-**Layer-1 attributes** are defined when the player is created and can't change afterward. The data is written in the blockchain and no one (not even us) can modify it. The vast majority of the mental, physical, and technical _limits_ of the player such as Determination, Stamina, or Finishing skill, are L1 attributes.
+Los **atributos de capa 1** se definen cuando se crea el jugador y no pueden ser cambiados posteriormente. Los datos están escritos en la blockchain y nadie (ni siquiera nosotros) puede modificarlos. La gran mayoría de límites mentales, físicos y técnicos de los jugadores como la Determinación, Stamina, o Definición son atributos de capa 1.
 
-**Layer-2 attributes** can suffer fluctuations based on in-game activity. The data is written in Ephere's servers. Age, Energy, Experience are some examples of layer-2 attributes. Mental, physical, and technical attributes are also layer-2 attributes, meaning they represent the skill limit at layer-1, and the current value at layer-2. This means that you can perform in-game actions to increase (or decrease) their value. These are some examples:
+Los **atributos de capa 2** pueden sufrir fluctuaciones basadas en la actividad del juego. La información es escrita en los servidores de Ephere. Edad, Energía, Experiencia son algunos ejemplos de atributos de capa 2. Los atributos mentales físicos y técnicos también son atributos de capa 2, lo que significa que representan el límite de habilidad en la capa 1 y el valor actual del atributo en la capa 2. Esto significa que puedes realizar acciones en el juego para aumentar (o disminuir) su valor. Estos son algunos ejemplos:
 
-* When you perform a training session to improve the Marking skill of a football player, the value of the layer-2 attribute will sightly increase, but the value of the layer-1 attribute will be left untouched. In other words, the value of the actual Marking will sightly increase, but the maximum value of the Marking skill will be the same. Of course, the value of the attribute at layer-2 cannot be greater than the value at layer-1.
+* Cuando realizas una sesión de entrenamiento para mejorar la habilidad de Marca de un jugador de fútbol, el valor del atributo de capa 2 aumentará ligeramente, pero el valor del atributo de capa 1 permanecerá intacto. En otras palabras, el valor de Marca real aumentará ligeramente, pero el valor máximo de la habilidad de Marca será el mismo. Por supuesto, el valor del atributo en la capa 2 no puede ser mayor que el valor en la capa 1.
 
 {% hint style="warning" %}
-In the future we'll use a High-Throughput blockchain --probably built by us-- to store layer-2 attributes.
+En el futuro usaremos una blockchain de alto rendimiento --probablemente creada por nosotros-- para almacenar atributos de capa 2.
 {% endhint %}
 
-### Retirement
+### Retiro
 
-As players get old their performance decrease. Users will be able to retire their players if they want, leaving room for new players to be born (Remember, players are scarce). For doing so they will be rewarded.
+A medida que los jugadores envejecen su rendimiento disminuye. Los usuarios podrán retirar a sus jugadores si así lo desean, dejando espacio para que nazcan nuevos jugadores (Recuerda que los jugadores escasean). Por hacerlo serán recompensados.
 
 {% hint style="warning" %}
-Retiring a player implies burning the ERC721 token.
+Retirar a un jugador implica quemar el token ERC721.
 {% endhint %}

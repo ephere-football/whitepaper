@@ -17,14 +17,14 @@ There are four main game modes. Each one has a different [$EPH](../tokenomics/us
 * [PvP](pvp.md): your team plays against another user's team with similar OVR
 * [League](league.md): your team recurrently plays matches in a hierarchical league
 
-### Play to earn
+### Play to Earn
 
 The game allows users to earn [$EPH](../tokenomics/usdeph.md) in several ways, including:
 
-* Completing game challenges (such as scoring X goals, mantaining Y ball posesion)
-* Finishing at the top of the [league](league.md) rank
-* Using the [marketplace](broken-reference)
-* Winning [PvE matches](pve.md)
-* Winning [PvP matches](pvp.md)
-* Winning seasonal tournaments
+* Completing game challenges (such as scoring X goals, mantaining Y ball posesion).
+* Finishing at the top of the [league](league.md) rank.
+* Using the [marketplace](broken-reference/).
+* Winning [PvE matches](pve.md).
+* Winning [PvP matches](pvp.md).
+* Winning seasonal tournaments.
 * (and many more still in the works)

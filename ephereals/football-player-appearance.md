@@ -1,21 +1,21 @@
-# Football player appearance
+# Apariencia visual
 
-We want our users to _love_ their players, but it’s hard to love a faceless dataset. That’s why we crafted detail-rich visuals that complement the data model by giving it a curated visual appearance.
+Queremos que nuestros usuarios _amen_ a sus jugadores, pero es difícil amar a un conjunto de datos sin rostro, es por esto que hemos creado visuales ricas en detalles que complementan los datos del modelo dándole una apariencia visual curada.
 
-There are two ways of determining the visual appearance of an Ephereal. For most of them it’s by their genetic code, a number in the data model that determines different traits. Each trait corresponds to a different body part. Those parts are then combined to produce the final image. Between the many different traits **there are more than six billions  possible combinations**.
+Hay dos formas de determinar la apariencia visual de un Ephereal. Para la mayoría de ellos es por su código genético, un número en el modelo de datos que determina diferentes rasgos. Cada rasgo corresponde a una parte del cuerpo distinta. Estas partes son entonces combinadas para producir la imagen final. Entre tantos distintos rasgos **hay más de seis mil millones de combinaciones posibles**.
 
 ![Algorithmically generated images](../.gitbook/assets/algorithmic.png)
 
-For some other very rare players (limited editions) the visual appearance will be crafted by our artists.
+Para algunos jugadores muy raros o de edición limitada, la apariencia visual será creada por nuestros artistas.
 
 ![Manually crafted images](<../.gitbook/assets/Whitepaper - crafted.png>)
 
-### Personalization
+### Personalización
 
-For those players with an algorithmically-generated visual appearance, owners will be able to add accessories such as tattoos, piercings, makeup, as well as styling their hair and customizing their kits.
+Para esos jugadores con apariencia visual generada algorítmicamente, los dueños serán capaces de agregar accesorios como tatuajes, perforaciones, maquillaje, así como peinados y personalizar sus kits.
 
-### Inclusiveness
+### Inclusión
 
-One of the things that distinguishes our project from all others (not only football-related) is that our representation of humans includes several underrepresented groups. Parading this kind of diversity makes us very proud, indeed!
+Una de las cosas que distingue a nuestro proyecto de todos los demás (no solo relacionados con el fútbol) es que nuestra representación de humanos incluye varios grupos subrepresentados. Poder mostrar este tipo de diversidad nos hace orgullosos, por supuesto!
 
-We encourage you to help us send a message of inclusion, tolerance, and respect by letting us know if we missed any of them, and also by demanding your game/service providers to include them when representing humans.
+Los alentamos a que nos ayuden a enviar un mensaje de inclusión, tolerancia y respeto haciéndonos saber si nos perdimos de alguno de ellos, también exigiendo a sus proveedores de juegos/servicios que los incluyan cuando representen seres humanos.

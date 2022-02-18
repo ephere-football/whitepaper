@@ -17,7 +17,7 @@
 ## El juego
 
 * [Introducción](el-juego/introduction.md)
-* [Costos y recompensas de $EPH variables](el-juego/variable-usdeph-cost-and-reward.md)
+* [Costos y recompensas variables de $EPH](el-juego/variable-usdeph-cost-and-reward.md)
 * [Entrenamiento](el-juego/training.md)
 * [Partidos PvE](el-juego/pve.md)
 * [Partidos PvP](el-juego/pvp.md)

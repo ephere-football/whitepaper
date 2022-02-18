@@ -12,7 +12,7 @@
 * [Modelo](ephereals/football-player.md)
 * [Aparência visual](ephereals/football-player-appearance.md)
 * [Escassez](ephereals/scarcity.md)
-* [Distribuição de talentos](ephereals/talent-distribution.md)
+* [Distribuição do talento](ephereals/talent-distribution.md)
 
 ## O jogo
 
@@ -29,10 +29,10 @@
 * [Comprar y vender jugadores](mercado/buying-and-selling-players.md)
 * [Contratar jugadores](mercado/hiring-players.md)
 
-## Tokenomics
+## Economia
 
-* [$EPH](tokenomics/usdeph.md)
-* [Asignación y calendario de desbloqueo](tokenomics/allocation.md)
+* [$EPH](economia/usdeph.md)
+* [Asignación y calendario de desbloqueo](economia/allocation.md)
 
 ## Más
 

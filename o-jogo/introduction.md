@@ -1,8 +1,8 @@
-# Introducción
+# Introdução
 
 ![Pantalla central del juego](<../.gitbook/assets/Ephere-UI Animation Test (1).gif>)
 
-El juego gira en torno a la gestión de tu propio equipo de fútbol, lo que incluye contratar jugadores de fútbol, ajustar la alineación del equipo, la estrategia en partido, y gestionar la infraestructura (instalaciones de entrenamiento, estadio, etc) para maximizar tus posibilidades de ganar partidos, competiciones, y completar desafíos y así obtener [$EPH](../tokenomics/usdeph.md) (criptomoneda).
+El juego gira en torno a la gestión de tu propio equipo de fútbol, lo que incluye contratar jugadores de fútbol, ajustar la alineación del equipo, la estrategia en partido, y gestionar la infraestructura (instalaciones de entrenamiento, estadio, etc) para maximizar tus posibilidades de ganar partidos, competiciones, y completar desafíos y así obtener [$EPH](../economia/usdeph.md) (criptomoneda).
 
 {% hint style="info" %}
 A diferencia de los juegos de fantasía de fútbol basados en la tecnología blockchain, Ephere se basa en un complejo motor de simulación de fútbol que permite a los usuarios expresar su creatividad, ingenio y pensamiento estratégico para maximizar sus posibilidades de éxito. A diferencia de otros juegos de simulación y gestión de fútbol (con complejos motores de simulación de fútbol), Ephere es una aplicación descentralizada basada en blockchain creada en torno a una economía _play-to-earn_.
@@ -10,7 +10,7 @@ A diferencia de los juegos de fantasía de fútbol basados en la tecnología blo
 
 ### Modos de juego
 
-Hay cuatro modos de juego principales. Cada uno tiene un costo de entrada diferente en [$EPH](../tokenomics/usdeph.md), requiere distintas cantidades de energía, y provee diferentes recompensas.
+Hay cuatro modos de juego principales. Cada uno tiene un costo de entrada diferente en [$EPH](../economia/usdeph.md), requiere distintas cantidades de energía, y provee diferentes recompensas.
 
 * [Entrenamiento](training.md): eliges hasta 5 jugadores para realizar una sesión de entrenamiento predefinida.
 * [PvE](pve.md): tu equipo juega contra nuestra inteligencia artificial.
@@ -19,7 +19,7 @@ Hay cuatro modos de juego principales. Cada uno tiene un costo de entrada difere
 
 ### Play to Earn
 
-El juego permite a los usuarios ganar [$EPH](../tokenomics/usdeph.md) de varias maneras, incluyendo:
+El juego permite a los usuarios ganar [$EPH](../economia/usdeph.md) de varias maneras, incluyendo:
 
 * Completar desafíos del juego (como marcar X goles, mantener Y posición del balón).
 * Terminar en la parte superior de la clasificación de la [liga](league.md).

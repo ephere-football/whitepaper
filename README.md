@@ -1,8 +1,10 @@
 ---
-description: El metaverso de fútbol donde todxs pueden jugar para ganar.
+description: O metaverso do futebol onde todxs podem jogar para ganhar.
 ---
 
-# Ephere (Translation in progress)
+# Ephere (Tradução em andamento)
+
+
 
 ![](.gitbook/assets/Medium.png)
 
@@ -12,4 +14,4 @@ description: El metaverso de fútbol donde todxs pueden jugar para ganar.
 
 **Los jugadores de fútbol** son parte esencial del universo. Los llamamos **Ephereals**, dada su naturaleza etérea pero a la vez realista. Tienen atributos mentales y físicos, habilidades de fútbol que se pueden entrenar, y una apariencia visual rica en detalles. Ganan experiencia al jugar partidos, y también se cansan, se lesionan, envejecen, y se retiran — _están vivos_.
 
-**El juego** consiste en manejar tu propio equipo de fútbol, lo que incluye contratar jugadores (NFTs), escoger la alineación del equipo, la estrategia de juego, y manejar su infraestructura (instalaciones de entrenamiento, estadio, etc) para maximizar tus chances de ganar partidos, competiciones, completar desafíos y así ganar [$EPH](tokenomics/usdeph.md).
+**El juego** consiste en manejar tu propio equipo de fútbol, lo que incluye contratar jugadores (NFTs), escoger la alineación del equipo, la estrategia de juego, y manejar su infraestructura (instalaciones de entrenamiento, estadio, etc) para maximizar tus chances de ganar partidos, competiciones, completar desafíos y así ganar [$EPH](economia/usdeph.md).

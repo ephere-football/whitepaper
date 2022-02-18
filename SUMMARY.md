@@ -29,10 +29,10 @@
 * [Comprar y vender jugadores](mercado/buying-and-selling-players.md)
 * [Contratar jugadores](mercado/hiring-players.md)
 
-## Tokenomics
+## Economía
 
-* [$EPH](tokenomics/usdeph.md)
-* [Asignación y calendario de desbloqueo](tokenomics/allocation.md)
+* [$EPH](economia/usdeph.md)
+* [Asignación y calendario de desbloqueo](economia/allocation.md)
 
 ## Más
 

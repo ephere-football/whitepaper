@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Ephere (Translation in progress)](README.md)
+* [Ephere (Tradução em andamento)](README.md)
 
-## En otros idiomas
+## Em outras línguas
 
 * [🇬🇧 English](https://docs.ephere.football/whitepaper)
 * [🇪🇸 Español](https://docs.ephere.football/whitepaper-es)
@@ -10,19 +10,19 @@
 ## Ephereals
 
 * [Modelo](ephereals/football-player.md)
-* [Apariencia visual](ephereals/football-player-appearance.md)
-* [Escasez](ephereals/scarcity.md)
-* [Distribución del talento](ephereals/talent-distribution.md)
+* [Aparência visual](ephereals/football-player-appearance.md)
+* [Escassez](ephereals/scarcity.md)
+* [Distribuição de talentos](ephereals/talent-distribution.md)
 
-## El juego
+## O jogo
 
-* [Introducción](el-juego/introduction.md)
-* [Costos y recompensas de $EPH variables](el-juego/variable-usdeph-cost-and-reward.md)
-* [Entrenamiento](el-juego/training.md)
-* [Partidos PvE](el-juego/pve.md)
-* [Partidos PvP](el-juego/pvp.md)
-* [Liga](el-juego/league.md)
-* [Becas](el-juego/scolarships.md)
+* [Introdução](o-jogo/introduction.md)
+* [Custos e recompensas variáveis ​​de $EPH](o-jogo/variable-usdeph-cost-and-reward.md)
+* [Treinamento](o-jogo/training.md)
+* [Partidos PvE](o-jogo/pve.md)
+* [Partidos PvP](o-jogo/pvp.md)
+* [Liga](o-jogo/league.md)
+* [Becas](o-jogo/scolarships.md)
 
 ## Mercado
 

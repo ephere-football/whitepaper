@@ -1,5 +1,5 @@
 ---
-description: 'Dirección oficial del contrato: 0xF48b4c5E2C7115Fb696b5401648D47E07a83194C'
+description: 'Endereço oficial do contrato: 0xF48b4c5E2C7115Fb696b5401648D47E07a83194C'
 ---
 
 # Modelo

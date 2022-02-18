@@ -1,3 +1,3 @@
 # Becas
 
-El propietario de un equipo podrán asignar un administrador y dividir las ganancias de las recompensas en el juego.
+O propietario de um time poderá atribuir um administrador e dividir os ganhos das recompensas do jogo.

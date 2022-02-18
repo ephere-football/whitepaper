@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Ephere (Tradução em andamento)](README.md)
+* [Ephere (Tradução em progresso)](README.md)
 
 ## Em outras línguas
 
@@ -19,22 +19,22 @@
 * [Introdução](o-jogo/introduction.md)
 * [Custos e recompensas variáveis ​​de $EPH](o-jogo/variable-usdeph-cost-and-reward.md)
 * [Treinamento](o-jogo/training.md)
-* [Partidos PvE](o-jogo/pve.md)
-* [Partidos PvP](o-jogo/pvp.md)
+* [Partidas PvE](o-jogo/pve.md)
+* [Partidas PvP](o-jogo/pvp.md)
 * [Liga](o-jogo/league.md)
 * [Becas](o-jogo/scolarships.md)
 
 ## Mercado
 
-* [Comprar y vender jugadores](mercado/buying-and-selling-players.md)
-* [Contratar jugadores](mercado/hiring-players.md)
+* [Comprar e vender jogadores](mercado/buying-and-selling-players.md)
+* [Contratar jogadores](mercado/hiring-players.md)
 
 ## Economia
 
 * [$EPH](economia/usdeph.md)
-* [Asignación y calendario de desbloqueo](economia/allocation.md)
+* [Atribuição e calendário de desbloqueio](economia/allocation.md)
 
-## Más
+## Mais
 
-* [Planificación](mas/roadmap.md)
-* [Equipo](mas/team.md)
+* [Planejamento](mais/roadmap.md)
+* [Time](mais/team.md)

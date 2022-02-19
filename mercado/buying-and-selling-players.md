@@ -1,8 +1,8 @@
-# Comprar y vender jugadores
+# Comprar e vender jogadores
 
-Para jugar a Ephere, necesitarás una plantilla de —al menos— 11 jugadores. Hay múltiples formas de adquirirlos. Una es comprándoselos a otras personas. Como los jugadores se proporcionan como NFTs, pueden ser comprados/vendidos/regalados/transferidos siempre que su propietario lo desee, en el mercado NFT de su preferencia.
+Para jogar Ephere, você precisará de um time de —pelo menos— 11 jogadores. Existem várias maneiras de adquiri-los, uma delas é comprá-los de outras pessoas. Como os jogadores são fornecidos como NFT, eles podem ser comprados/vendidos/presenteados/transferidos sempre que seu proprietário desejar, no mercado NFT de sua escolha.
 
-Para brindar una mejor experiencia al hacerlo, proporcionaremos nuestro propio mercado que ofrecerá algunas ventajas:
+Para proporcionar uma melhor experiência ao fazê-lo, forneceremos nosso próprio mercado que oferecerá algumas vantagens:
 
-* Los jugadores transferidos en el mercado de Ephere conservarán sus mejoras (Experiencia o habilidades entrenadas, por ejemplo).
-* Tendrá un motor de búsqueda más potente, adaptado al juego de Ephere.
+* Os jogadores transferidos no mercado de Ephere manterão suas melhorias (experiência ou habilidades treinadas, por exemplo).
+* Terá um motor de busca mais potente, adaptado ao jogo de Ephere.

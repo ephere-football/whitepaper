@@ -9,7 +9,7 @@ Em Ephere, os jogadores são ativos digitais não fungíveis, transferíveis e e
 Estes têm atributos físicos e mentais, habilidades futebolísticas treináveis que são limitadas pela genética e propriedades visuais distintas, algumas das quais podem ser alteradas pelo proprietário. Os jogadores ganham experiência jogando partidas e também podem ficar cansados, lesionados, envelhecer e retirar-se — _estão vivos._
 
 {% hint style="info" %}
-Contrato oficial: [0xF48b4c5E2C7115Fb696b5401648D47E07a83194C](https://bscscan.com/token/0xF48b4c5E2C7115Fb696b5401648D47E07a83194C) ([Source code](https://github.com/ephere-football/contracts/blob/master/contracts/EphereFootballerERC721.sol))
+Contrato oficial: [0xF48b4c5E2C7115Fb696b5401648D47E07a83194C](https://bscscan.com/token/0xF48b4c5E2C7115Fb696b5401648D47E07a83194C) ([Código fonte](https://github.com/ephere-football/contracts/blob/master/contracts/EphereFootballerERC721.sol))
 {% endhint %}
 
 ### Atributos y habilidades

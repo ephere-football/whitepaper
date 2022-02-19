@@ -1,38 +1,38 @@
-# Planificación
+# Planejamento
 
 **Fase 1 (Q3 2021)**
 
-* ☑️ Conceptualización del proyecto
-* ☑️ Diseño del juego
-* ☑️ Diseño de economía del juego
-* ☑️ Lanzamiento del sitio web
+* ☑️ Conceitualização do projeto
+* ☑️ Design do jogo
+* ☑️ Design de economia do jogo
+* ☑️ lançamento do site
 * ☑️ Contrato inteligente de $EPH
 * ☑️ Contrato inteligente Epheral NFT
-* ☑️ Algoritmo de generación de la apariencia de los Ephereal
-* ☑️ Algoritmo de generación de los atributos de los Ephereal
-* ☑️ Exploración en red de prueba
+* ☑️ Algoritmo de geração da aparência dos Ephereals
+* ☑️ Algoritmo de geração dos atributos dos Ephereals
+* ☑️ Exploração em redes de prova
 
 **Fase 2 (Q4 2021)**
 
 * ☑️ Oferta inicial de NFT
-* ☑️ Primera versión MVP del juego
-* ☑️ Primer torneo con premios monetarios
-* ☑️ Algoritmo de control de distribución de talento
+* ☑️ Primeira versão MVP do juego
+* ☑️ Primeiro torneio com prêmios monetários
+* ☑️ Algoritmo de controle de distribuição de talentos
 
 **Fase 3 (Q1 2022 - Q2 2022)**
 
-* Crecimiento de la comunidad
-* Asociaciones estratégicas
-* Auditoría de contratos inteligentes
-* Marketing agresivo
-* Lanzamiento del mercado
-* Lanzamiento $EPH en Pancakeswap
-* Lanzamiento $EPH en Binance
-* Primera versión pública del juego (web)
+* Crescimento da comunidade
+* Associações estratégicas
+* Auditoria de contratos inteligentes
+* Marketing agressivo
+* Lanzamiento do mercado
+* Lançamento do $EPH no Pancakeswap
+* Lançamento do $EPH na Binance
+* Primeira versão pública do jogo (web)
 
 **Fase 4 (Q3 2022 - Q4 2022)**
 
-* Implementar instalaciones de entrenamiento y contratos inteligentes de estadios
-* Lanzar sistema de liga automático
-* Lanzar la versión móvil del juego
-* Lanzar pools de staking
+* Implementar instalações de treinamento e contratos inteligentes de estádios
+* Lançar sistema de liga automático
+* Lançar a versão móvel do jogo
+* Lançar _staking pools_

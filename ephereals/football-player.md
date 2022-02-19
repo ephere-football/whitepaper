@@ -2,9 +2,9 @@
 description: 'Dirección oficial del contrato: 0xF48b4c5E2C7115Fb696b5401648D47E07a83194C'
 ---
 
-# Modelo de datos
+# Modelo
 
-En Ephere, los jugadores son activos digitales no-fungibles, transferibles, y escasos almacenados en un contrato inteligente que utiliza el estándar ERC-721 (también conocido como NFT) en la red [Binance Smart Chain](https://coinmarketcap.com/alexandria/article/what-is-binance-smart-chain).
+En Ephere, los jugadores son activos digitales no-fungibles, transferibles y escasos, almacenados en un contrato inteligente que utiliza el estándar ERC-721 (también conocido como NFT) en la red [Binance Smart Chain](https://coinmarketcap.com/alexandria/article/what-is-binance-smart-chain).
 
 Estos tienen atributos físicos y mentales, habilidades futbolísticas entrenables que están limitadas por la genética y propiedades visuales distintivas, algunas de las cuales pueden ser cambiadas por el dueño. Los jugadores obtienen experiencia jugando partidos, y también pueden cansarse, lesionarse, envejecer, y retirarse — _están vivos_.
 

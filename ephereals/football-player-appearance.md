@@ -18,4 +18,4 @@ Para os jogadores com aparência visual gerada por algoritmos, os proprietários
 
 Uma das coisas que diferencia nosso projeto de todos os outros (não apenas relacionados ao futebol) é que nossa representação de humanos inclui vários grupos sub-representados. Poder mostrar esse tipo de diversidade nos deixa orgulhosos, claro!&#x20;
 
-Incentivamos vocês a nos ajudar a enviar uma mensagem de inclusão, tolerância e respeito, informando-nos se os omitirmos, além de exigir que seus provedores de jogos/serviços os incluam ao retratar seres humanos.
+Animamos vocês a nos ajudar a enviar uma mensagem de inclusão, tolerância e respeito, informando-nos se os omitirmos, além de exigir que seus provedores de jogos/serviços os incluam ao retratar seres humanos.

@@ -12,7 +12,7 @@
 * [Modelo](ephereals/football-player.md)
 * [Aparência visual](ephereals/football-player-appearance.md)
 * [Escassez](ephereals/scarcity.md)
-* [Distribuição do talento](ephereals/talent-distribution.md)
+* [Distribuição de talentos](ephereals/talent-distribution.md)
 
 ## O jogo
 

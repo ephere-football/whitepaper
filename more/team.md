@@ -1,6 +1,6 @@
 # Team
 
-![Agu](../.gitbook/assets/Agu.png) ![Héctor](../.gitbook/assets/Hector.png) ![Felipe](../.gitbook/assets/Yazo.png) ![Keli](<../.gitbook/assets/Keli (1).png>) ![Ren](../.gitbook/assets/Renzo.png) ![Nico](../.gitbook/assets/T01EMBNVBQR-U02QVME2WN4-b85fada8554d-512.png) ![Rodri](../.gitbook/assets/RodrigoProfileTemplate.png) ![Santi](../.gitbook/assets/T01EMBNVBQR-U02SY0Q2THS-e2888d9fe4d0-512.png) ![Andrea](../.gitbook/assets/AndreGomez.png) ![Iván](../.gitbook/assets/IvanArce.png)
+![Agu](../.gitbook/assets/Agu.png) ![Tico](../.gitbook/assets/Hector.png) ![Felipe](../.gitbook/assets/Yazo.png) ![Keli](<../.gitbook/assets/Keli (1).png>) ![Ren](../.gitbook/assets/Renzo.png) ![Nico](../.gitbook/assets/T01EMBNVBQR-U02QVME2WN4-b85fada8554d-512.png) ![Rodri](../.gitbook/assets/RodrigoProfileTemplate.png) ![Santi](../.gitbook/assets/T01EMBNVBQR-U02SY0Q2THS-e2888d9fe4d0-512.png) ![Andrea](../.gitbook/assets/AndreGomez.png) ![Iván](../.gitbook/assets/IvanArce.png)
 
 #### [Agu](https://agu.uy)
 
@@ -8,7 +8,7 @@ I’m Agu, Founder & CEO of Ephere.
 
 I envision a world where people can work doing the thing they love. That’s why we are building Ephere, a football game where people can play to earn. Some fun’t facts about me: I like stoicism, I can fly planes, I mostly use plain B/W T-Shirts (though I’m slowly changing my uniform to a more colorful version 😜), and I’ll go to space someday.
 
-#### [Héctor](https://www.linkedin.com/in/hectorituarte/)
+#### [Tico](https://www.linkedin.com/in/hectorituarte/)
 
 I’m in charge of growth for this amazing universe.
 

@@ -1,30 +1,30 @@
 # Equipo
 
-![Agu](../.gitbook/assets/Agu.png) ![Héctor](../.gitbook/assets/Hector.png) ![Felipe](../.gitbook/assets/Yazo.png) ![Keli](<../.gitbook/assets/Keli (1).png>) ![Ren](../.gitbook/assets/Renzo.png) ![Nico](../.gitbook/assets/T01EMBNVBQR-U02QVME2WN4-b85fada8554d-512.png) ![Rodri](../.gitbook/assets/RodrigoProfileTemplate.png) ![Santi](../.gitbook/assets/T01EMBNVBQR-U02SY0Q2THS-e2888d9fe4d0-512.png) ![Andrea](../.gitbook/assets/AndreGomez.png) ![Iván](../.gitbook/assets/IvanArce.png)
+![Agu](../.gitbook/assets/Agu.png) ![Tico](../.gitbook/assets/Hector.png) ![Felipe](../.gitbook/assets/Yazo.png) ![Keli](<../.gitbook/assets/Keli (1).png>) ![Ren](../.gitbook/assets/Renzo.png) ![Nico](../.gitbook/assets/T01EMBNVBQR-U02QVME2WN4-b85fada8554d-512.png) ![Rodri](../.gitbook/assets/RodrigoProfileTemplate.png) ![Santi](../.gitbook/assets/T01EMBNVBQR-U02SY0Q2THS-e2888d9fe4d0-512.png) ![Andrea](../.gitbook/assets/AndreGomez.png) ![Iván](../.gitbook/assets/IvanArce.png)
 
 #### [Agu](https://agu.uy)
 
-I’m Agu, Founder & CEO of Ephere.
+Soy Agu, Fundador y CEO de Ephere.
 
-Imagino un mundo en el que las personas pueden trabajar haciendo lo que aman. Por eso estamos construyendo Ephere, un juego de fútbol donde las personas pueden jugar para ganar. Algunos datos divertidos sobre mí: me gusta el estoicismo, puedo pilotear aviones, suelo usar camisetas blancas o negras (aunque poco a poco estoy cambiando mi uniforme a una versión más colorida 😜), y voy a ir al espacio algún día.
+Imagino un mundo en el que las personas pueden trabajar haciendo lo que aman. Por eso estamos construyendo Ephere, un juego de fútbol donde las personas pueden jugar para ganar. Algunos datos divertidos sobre mí: me gusta el estoicismo, puedo pilotear aviones, suelo usar camisetas blancas o negras (aunque poco a poco estoy cambiando mi uniforme a una versión más colorida 😜) y voy a ir al espacio algún día.
 
-#### [Héctor](https://www.linkedin.com/in/hectorituarte/)
+#### [Tico](https://www.linkedin.com/in/hectorituarte/)
 
 Estoy a cargo del crecimiento de este increíble universo.
 
-He sido tecnólogo desde que tengo memoria. Comencé a jugar videojuegos desde la primera vez que mis primos mayores me permitieron unirme a ellos en sesiones de días de Mario Bros durante las vacaciones. Una vez vendí un par de zapatillas Jordan para poder pagar una consola de SNES. Pero por mucho que lo intenté, nunca pude involucrarme en el desarrollo de videojuegos, hasta ahora.
+He sido un apasionado por la tecnología desde que tengo memoria. Comencé a jugar videojuegos desde la primera vez que mis primos mayores me permitieron unirme a ellos durante las vacaciones en sesiones de Mario Bros que duraban días. Una vez vendí un par de zapatillas Jordan para poder pagar una consola de SNES. Pero por mucho que lo intenté, nunca pude involucrarme en el desarrollo de videojuegos, hasta ahora.
 
 #### [Felipe](https://www.linkedin.com/in/felipe-collazo-70028b92/)
 
-Hey, soy Felipe, pero puedes decirme Yazo, Soy Co-Founder, Art Director y Director of Awesomeness en Ephere.&#x20;
+Hey, soy Felipe, pero puedes decirme Yazo, Soy Co-Founder, Art Director y Director de _Awesomeness_ en Ephere.&#x20;
 
-Cuando no estoy detrás de mi escritorio creando Ephereals, posiblemente esté fuera andando en bicicleta, mirando Blade Runner por 92ª vez, o tratando de comunicarme con un gato que acabo de conocer al azar.
+Cuando no estoy detrás de mi escritorio creando Ephereals, posiblemente esté fuera andando en bicicleta, mirando Blade Runner por 92ª vez o tratando de comunicarme con un gato que acabo de conocer al azar.
 
 También soy tatuador así que llámame cuando estés listo para tatuarte tu Ephereal en un lado de tu cara.
 
 #### [Keli](https://www.linkedin.com/in/ornella-porras-7178ba224/)
 
-Hey! Soy Keli, Comunnity Manager Interna en Ephere. Estaré liderando nuestro staff de Discord y manejando redes sociales. Siempre quise ser una Ingeniera de Cohetes, y realmente, de cierta forma lo soy, porque siento que Ephere es un cohete que volará muy, muy alto. Y pondré todo de mí para hacer que eso suceda 🚀. Si hay algo que necesites, incluyendo jugar videojuegos, ¡contáctame!
+Hey! Soy Keli, Comunnity Manager Intern en Ephere. Estaré liderando nuestro staff de Discord y manejando redes sociales. Siempre quise ser una Ingeniera de Cohetes, y realmente, de cierta forma lo soy, porque siento que Ephere es un cohete que volará muy, muy alto. Y pondré todo de mí para hacer que eso suceda 🚀. Si hay algo que necesites, incluyendo jugar videojuegos, ¡contáctame!
 
 #### [Ren](https://www.linkedin.com/in/renzodogliotti/)
 

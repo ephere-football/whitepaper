@@ -2,7 +2,7 @@
 description: 'Official contract address: 0xF48b4c5E2C7115Fb696b5401648D47E07a83194C'
 ---
 
-# Football player model
+# Model
 
 In Ephere, football players are non-fungible, transferable, and scarce digital assets stored in a smart contract implementing the ERC-721 standard (also known as NFT) in the [Binance Smart Chain](https://coinmarketcap.com/alexandria/article/what-is-binance-smart-chain).
 
@@ -14,7 +14,7 @@ Official contract: [0xF48b4c5E2C7115Fb696b5401648D47E07a83194C](https://bscscan.
 
 ### Attributes & skills
 
-We want Ephere to be a fun game in which people can express their creativity, ingenuity, and strategic thinking to maximize their chance of success. To accomplish that we need a complex football match simulation engine with the capacity to simulate a wide range of football situations. And that needs a complex football player data model. That’s why our players have a broad set of attributes that describe several aspects of their uniqueness:
+We want Ephere to be a fun game in which people can express their creativity, ingenuity, and strategic thinking to maximize their chance of success. To accomplish that we need a sophisticated football match simulation engine with the capacity to simulate a wide range of football situations, which requires a complex football player data model. That’s why our players have a broad set of attributes that describe several aspects of their uniqueness:
 
 {% embed url="https://gist.github.com/agurodriguez/7bfb9a0683f0b5e08baf36451e146c96#file-ephere-football-player-csv" %}
 

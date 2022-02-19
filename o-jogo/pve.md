@@ -1,15 +1,15 @@
-# Partidos PvE
+# Partidas PvE
 
 ![Pantalla de juego](<../.gitbook/assets/Ephere-UI Match.gif>)
 
-Este modo de juego te permite poner a tu equipo a jugar un partido 11vs11 contra nuestra IA. La dificultad de la IA se ajustará automáticamente según el OVR de tu escuadra.
+Este modo de jogo permite que você coloque seu time para jogar uma partida de 11vs11 contra nossa IA. A dificuldade da IA ​​será ajustada automaticamente com base no OVR dos seus jogadores.
 
-| Propiedad                      | Valor                        |
+| Propriedade                    | Valor                        |
 | ------------------------------ | ---------------------------- |
-| Costo de energía (por jugador) | 0.2222 por minuto de partido |
-| Costo de $EPH                  | Gratis                       |
-| Recompensa de $EPH por ganar   | \~ USD 4.5                   |
+| Custo de energia (por jogador) | 0.2222 por minuto de partida |
+| Custo de $EPH                  | Gratis                       |
+| Recompensa de $EPH por ganhar  | \~ USD 4.5                   |
 
 {% hint style="info" %}
-Los partidos PvE son gratuitos. Puedes jugar hasta 3 partidos por día, siempre que tus jugadores tengan suficiente energía. Recuerda que usar jugadores cansados aumenta altamente las probabilidades de que estos se lesionen.
+As partidas PvE são gratuitas. Você pode jogar até 3 partidas por dia, desde que seus jogadores tenham energia suficiente. Lembre-se que usar jogadores cansados ​​aumenta muito as chances de eles se lesionarem.
 {% endhint %}

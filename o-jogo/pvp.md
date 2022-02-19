@@ -1,15 +1,15 @@
-# Partidos PvP
+# Partidas PvP
 
-Este modo de juego te permite poner a tu equipo a jugar un partido 11vs11 contra el equipo de otro usuario. Cuando envíes tu escuadra y tus tácticas, se te agregará a la cola de emparejamiento hasta que otro equipo con OVR similar esté disponible para un partido PvP.
+Este modo de jogo permite que você coloque seu time para jogar uma partida de 11vs11 contra o time de outro usuário. Ao enviar seus jogadores e táticas, você será adicionado à fila de organização de partidas até que outra equipe com OVR semelhante esteja disponível para uma partida PvP.
 
-Para jugar partidas PvP, los usuarios deben pagar [$EPH](../economia/usdeph.md). El ganador recibe \~ 1 USD  del presupuesto de Play To Earn más el 99 % de la apuesta del partido (Ephere se queda con el 1 % restante). Esto significa que cuando ganas una partida PvP estás duplicando tu inversión en [$EPH](../economia/usdeph.md).
+Para jogar partidas PvP, os usuários devem pagar [$EPH](../economia/usdeph.md). O vencedor recebe \~ 1 USD do orçamento Play To Earn mais o 99% da aposta da partida (Ephere fica com o 1% restante). Isso significa que, quando você vence uma partida PvP, está dobrando seu investimento em [$EPH](../economia/usdeph.md).
 
-| Propiedad                      | Valor                        |
+| Propriedade                    | Valor                        |
 | ------------------------------ | ---------------------------- |
-| Costo de energía (por jugador) | 0.3333 por minuto de partido |
-| Costo de $EPH                  | \~ USD 10                    |
-| Recompensa de $EPH por ganar   | \~ USD 20.8                  |
+| Custo de energia (por jogador) | 0.3333 por minuto de partida |
+| Custo de $EPH                  | \~ USD 10                    |
+| Recompensa de $EPH por ganhar  | \~ USD 20.8                  |
 
 {% hint style="info" %}
-Puedes jugar hasta 2 partidos por día, siempre que tus jugadores tengan suficiente energía. Recuerda que usar jugadores cansados aumenta altamente las probabilidades de que estos se lesionen.
+Você pode jogar até 2 partidas por dia, desde que seus jogadores tenham energia suficiente. Lembre-se que usar jogadores cansados ​​aumenta muito as chances de eles se lesionarem.
 {% endhint %}

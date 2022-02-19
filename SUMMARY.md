@@ -37,4 +37,4 @@
 ## Mais
 
 * [Planejamento](mais/roadmap.md)
-* [Time](mais/team.md)
+* [Equipe](mais/team.md)

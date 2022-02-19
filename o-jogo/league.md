@@ -1,9 +1,9 @@
 # Liga
 
-Cuando te registres como nuevo usuario, se te asignará automáticamente a una liga con espacio libre. Cada liga consta de 16 equipos. Si ya no hay ligas disponibles, se creará una nueva liga. Las ligas siguen una estructura jerárquica:
+Ao se registrar como um novo usuário, você será automaticamente atribuído a uma liga com espaço livre. Cada liga é composta por 16 equipes. Se não houver mais ligas disponíveis, uma nova liga será criada. As ligas seguem uma estrutura hierárquica:
 
 ![](../.gitbook/assets/221b.png)
 
-Cada equipo juega contra otro equipo en la misma liga dos veces por temporada. Como hay 16 clubes por liga, juegas 30 partidos por temporada. Los partidos de liga se juegan una vez al día, por lo que una temporada durará alrededor de un mes.
+Cada equipe joga contra outra equipe na mesma liga duas vezes por temporada. Como há 16 clubes por liga, você joga 30 jogos por temporada. As partidas da liga são disputadas uma vez por dia, então uma temporada dura cerca de um mês.
 
-Al final de la temporada, los 4 equipos en la parte superior de cada liga ascenderán al siguiente nivel superior de la liga. Asimismo, los 4 equipos más débiles de cada liga serán relegados a una liga con un nivel de uno menor a la liga actual. Los 4 equipos en la parte superior de la liga recibirán recompensas de [$EPH](../economia/usdeph.md) según su posición.
+No final da temporada, as 4 melhores equipes de cada liga serão promovidas para o próximo nível e receberão recompensas de [$EPH](../economia/usdeph.md) com base em sua posição. Além disso, as 4 equipes mais fracas de cada liga serão rebaixadas para uma liga com um nível inferior ao da liga atual.

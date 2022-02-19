@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Ephere (Tradução em progresso)](README.md)
+* [Ephere](README.md)
 
 ## Em outras línguas
 

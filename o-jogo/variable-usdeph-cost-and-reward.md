@@ -7,6 +7,6 @@ A razão por trás dessa decisão é que, como a oferta máxima de [$EPH](../eco
 Ao usar esse mecanismo de balanceamento, formamos uma correlação entre usuários ativos e o valor em USD de [$EPH](../economia/usdeph.md), protegendo os usuários de flutuações bruscas no preço de mercado e mantendo os custos e recompensas do jogo ​​por longos e sustentávels períodos de tempo.
 
 {% hint style="info" %}
-Os custos e recompensas de [$EPH](../economia/usdeph.md) especificados nas seções de Gameplay y Marketplace deste Whitepaper serão expressos como o valor aproximado em USD de [$EPH](../economia/usdeph.md).
+Os custos e recompensas de [$EPH](../economia/usdeph.md) especificados nas seções de O jogo e Mercado deste _whitepaper_ serão expressos como o valor aproximado em USD de [$EPH](../economia/usdeph.md).
 {% endhint %}
 

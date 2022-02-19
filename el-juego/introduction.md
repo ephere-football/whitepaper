@@ -15,7 +15,7 @@ Hay cuatro modos de juego principales. Cada uno tiene un costo de entrada difere
 * [Entrenamiento](training.md): eliges hasta 5 jugadores para realizar una sesión de entrenamiento predefinida.
 * [PvE](pve.md): tu equipo juega contra nuestra inteligencia artificial.
 * [PvP](pvp.md): tu equipo juega contra el equipo de otro jugador con un OVR similar.
-* [League](league.md): tu equipo juega partidos de forma recurrente en un sistema jerárquico de ligas.
+* [Liga](league.md): tu equipo juega partidos de forma recurrente en un sistema jerárquico de ligas.
 
 ### Play to Earn
 

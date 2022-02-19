@@ -2,10 +2,10 @@
 
 ![Pantalla central del juego](<../.gitbook/assets/Ephere-UI Animation Test (1).gif>)
 
-El juego gira en torno a la gestión de tu propio equipo de fútbol, lo que incluye contratar jugadores de fútbol, ajustar la alineación del equipo, la estrategia en partido, y gestionar la infraestructura (instalaciones de entrenamiento, estadio, etc) para maximizar tus posibilidades de ganar partidos, competiciones, y completar desafíos y así obtener [$EPH](../economia/usdeph.md) (criptomoneda).
+O jogo gira em torno do gerenciamento de seu próprio time de futebol, o que inclui contratar jogadores, ajustar a escalação do time, a estratégia de jogo e gerenciar sua infraestrutura (instalações de treinamento, estádio etc.), para maximizar suas chances de ganhar partidas, competições, completar desafios e ganhar [$EPH](../economia/usdeph.md) (criptomoedas).
 
 {% hint style="info" %}
-A diferencia de los juegos de fantasía de fútbol basados en la tecnología blockchain, Ephere se basa en un complejo motor de simulación de fútbol que permite a los usuarios expresar su creatividad, ingenio y pensamiento estratégico para maximizar sus posibilidades de éxito. A diferencia de otros juegos de simulación y gestión de fútbol (con complejos motores de simulación de fútbol), Ephere es una aplicación descentralizada basada en blockchain creada en torno a una economía _play-to-earn_.
+Ao contrário dos jogos de fantasia de futebol baseados em blockchain, Ephere é construído em um mecanismo de simulação de futebol complexo que permite aos usuários expressar sua criatividade, engenhosidade e pensamento estratégico para maximizar suas chances de sucesso. Ao contrário de outros jogos de simulação e gerenciamento de futebol (com mecanismos complexos de simulação de futebol), Ephere é um aplicativo descentralizado baseado em blockchain, construído em torno de uma economia _play-to-earn_.
 {% endhint %}
 
 ### Modos de juego

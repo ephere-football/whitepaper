@@ -7,5 +7,5 @@ La razón detrás de esta decisión es que, dado que el suministro máximo de [$
 Al utilizar este mecanismo de equilibrio, formamos una correlación entre los usuarios activos y el valor en USD de [$EPH](../economia/usdeph.md), protegiendo a los usuarios de las fluctuaciones bruscas en el precio del mercado y manteniendo durante períodos prolongados y sostenibles los costos y las recompensas del juego.
 
 {% hint style="info" %}
-Los costos y recompensas de [$EPH](../economia/usdeph.md) especificados en las secciones de Gameplay y Marketplace de este Whitepaper serán expresados como el valor aproximado en USD de [$EPH](../economia/usdeph.md).
+Los costos y recompensas de [$EPH](../economia/usdeph.md) especificados en las secciones de El juego y Mercado de este _whitepaper_ serán expresados como el valor aproximado en USD de [$EPH](../economia/usdeph.md).
 {% endhint %}

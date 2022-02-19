@@ -26,7 +26,7 @@
 * Auditoría de contratos inteligentes
 * Marketing agresivo
 * Lanzamiento del mercado
-* Lanzamiento $EPH en Pancakeswap
+* Lanzamiento $EPH en PancakeSwap
 * Lanzamiento $EPH en Binance
 * Primera versión pública del juego (web)
 

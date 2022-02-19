@@ -2,7 +2,7 @@
 
 Este modo de juego te permite poner a tu equipo a jugar un partido 11vs11 contra el equipo de otro usuario. Cuando envíes tus jugadores y tus tácticas, se te agregará a la cola de emparejamiento hasta que otro equipo con OVR similar esté disponible para un partido PvP.
 
-Para jugar partidas PvP, los usuarios deben pagar [$EPH](../economia/usdeph.md). El ganador recibe \~ 1 USD  del presupuesto de Play To Earn más el 99 % de la apuesta del partido (Ephere se queda con el 1 % restante). Esto significa que cuando ganas una partida PvP estás duplicando tu inversión en [$EPH](../economia/usdeph.md).
+Para jugar partidas PvP, los usuarios deben pagar [$EPH](../economia/usdeph.md). El ganador recibe \~ 1 USD  del presupuesto de _play to earn_ más el 99 % de la apuesta del partido (Ephere se queda con el 1 % restante). Esto significa que cuando ganas una partida PvP estás duplicando tu inversión en [$EPH](../economia/usdeph.md).
 
 | Propiedad                      | Valor                        |
 | ------------------------------ | ---------------------------- |

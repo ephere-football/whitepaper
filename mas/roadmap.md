@@ -8,9 +8,9 @@
 * ☑️ Lanzamiento del sitio web
 * ☑️ Contrato inteligente de $EPH
 * ☑️ Contrato inteligente Epheral NFT
-* ☑️ Algoritmo de generación de la apariencia de los Ephereal
-* ☑️ Algoritmo de generación de los atributos de los Ephereal
-* ☑️ Exploración en red de prueba
+* ☑️ Algoritmo de generación de la apariencia de los Ephereals
+* ☑️ Algoritmo de generación de los atributos de los Ephereals
+* ☑️ Exploración en red de pruebas
 
 **Fase 2 (Q4 2021)**
 
@@ -35,4 +35,4 @@
 * Implementar instalaciones de entrenamiento y contratos inteligentes de estadios
 * Lanzar sistema de liga automático
 * Lanzar la versión móvil del juego
-* Lanzar pools de staking
+* Lanzar _staking pools_

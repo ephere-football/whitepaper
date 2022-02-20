@@ -20,7 +20,7 @@ Ei, eu sou Felipe, mas pode me chamar Yazo, sou Co-Fundador, Diretor de Arte e D
 
 Quando não estou atrás da minha mesa criando Ephereals, possivelmente estou andando de bicicleta, assistindo Blade Runner pela 92ª vez ou tentando me comunicar com um gato que acabei de conhecer aleatoriamente.
 
-Eu também sou um tatuador, então me ligue quando estiver pronto para tatuar seu Epheral num lado do seu rosto.
+Eu também sou um tatuador, então me ligue quando estiver pronto para tatuar seu Ephereal num lado do seu rosto.
 
 #### [Keli](https://www.linkedin.com/in/ornella-porras-7178ba224/)
 

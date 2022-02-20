@@ -1,5 +1,5 @@
 ---
-description: 'Dirección del contrato oficial: 0x0'
+description: 'Endereço do contrato oficial: 0x0'
 ---
 
 # $EPH

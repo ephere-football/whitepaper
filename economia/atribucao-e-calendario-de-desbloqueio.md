@@ -14,7 +14,7 @@ A equipe de desenvolvimento terá apenas 2% do fornecimento total. Esses tokens 
 
 ### Marketing
 
-6% da oferta total irá para campanhas de Marketing. 20% serão desbloqueados após o [TGE](https://decrypt.co/resources/token-generation-events-what-are-they-guide), o restante será desbloqueado em lotes de 20% a cada trimestre subsequente.
+6% do fornecimento total irá para campanhas de Marketing. 20% serão desbloqueados após o [TGE](https://decrypt.co/resources/token-generation-events-what-are-they-guide), o restante será desbloqueado em lotes de 20% a cada trimestre subsequente.
 
 ### Venta Privada <a href="#9119" id="9119"></a>
 

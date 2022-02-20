@@ -16,7 +16,7 @@ Sou apaixonado por tecnologia desde que me lembro. Comecei a jogar videogame des
 
 #### [Felipe](https://www.linkedin.com/in/felipe-collazo-70028b92/)
 
-Hey, eu sou Felipe, mas pode me chamar Yazo, sou Co-Fundador, Diretor de Arte e Diretor de _Awesomeness_ em Ephere.
+Ei, eu sou Felipe, mas pode me chamar Yazo, sou Co-Fundador, Diretor de Arte e Diretor de _Awesomeness_ em Ephere.
 
 Quando não estou atrás da minha mesa criando Ephereals, possivelmente estou andando de bicicleta, assistindo Blade Runner pela 92ª vez ou tentando me comunicar com um gato que acabei de conhecer aleatoriamente.
 
@@ -24,7 +24,7 @@ Eu também sou um tatuador, então me ligue quando estiver pronto para tatuar se
 
 #### [Keli](https://www.linkedin.com/in/ornella-porras-7178ba224/)
 
-Hey! Sou Keli, Comunnity Manager Intern em Ephere. Estarei liderando nossa equipe do Discord e operando as mídias sociais. Eu sempre quis ser uma engenheira de foguetes, e realmente, de certa forma eu sou, porque eu sinto que Ephere é um foguete que vai voar muito, muito alto. E vou colocar tudo de mim para que isso aconteça 🚀. Se precisar de alguma coisa, inclusive jogar videogame, entre em contato comigo!
+Ei! Sou Keli, Comunnity Manager Intern em Ephere. Estarei liderando nossa equipe do Discord e operando as mídias sociais. Eu sempre quis ser uma engenheira de foguetes, e realmente, de certa forma eu sou, porque eu sinto que Ephere é um foguete que vai voar muito, muito alto. E vou colocar tudo de mim para que isso aconteça 🚀. Se precisar de alguma coisa, inclusive jogar videogame, entre em contato comigo!
 
 #### [Ren](https://www.linkedin.com/in/renzodogliotti/)
 

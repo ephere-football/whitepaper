@@ -8,7 +8,7 @@ description: El metaverso de fútbol donde todxs pueden jugar para ganar.
 
 ## Introducción
 
-**Ephere** es un metaverso de juegos basados en fútbol donde las personas pueden jugar para ganar cripto, siendo habilidosas en el juego y contribuyendo a su ecosistema. Consiste en dos componentes principales; por un lado, una colección escasa de jugadores de fútbol cuidadosamente diseñados y proporcionados como NFT; por otro lado, un juego de simulación de gerencia futbolística que permite a las personas usar esos jugadores en una divertida experiencia play-to-earn.
+**Ephere** es un metaverso de juegos basados en fútbol donde las personas pueden jugar para ganar cripto, siendo habilidosas en el juego y contribuyendo a su ecosistema. Consiste en dos componentes principales; por un lado, una colección escasa de jugadores de fútbol cuidadosamente diseñados y proporcionados como NFT; por otro lado, un juego de simulación de gerencia futbolística que permite a las personas usar esos jugadores en una divertida experiencia _play-to-earn._
 
 **Los jugadores de fútbol** son parte esencial del universo. Los llamamos **Ephereals**, dada su naturaleza etérea pero a la vez realista. Tienen atributos mentales y físicos, habilidades futbolísticas que se pueden entrenar y una apariencia visual rica en detalles. Ganan experiencia al jugar partidos, así como también se cansan, se lesionan, envejecen y se retiran — _están vivos_.
 

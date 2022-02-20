@@ -30,7 +30,7 @@ En el futuro usaremos una blockchain de alto rendimiento --probablemente creada 
 
 ### Retiro
 
-A medida que los jugadores envejecen su rendimiento disminuye. Los usuarios podrán retirar a sus jugadores si así lo desean, dejando espacio para que nazcan nuevos jugadores (Recuerda que los jugadores escasean). Por hacerlo serán recompensados.
+A medida que los jugadores envejecen su rendimiento disminuye. Los usuarios podrán retirar a sus jugadores si así lo desean, dejando espacio para que nazcan nuevos jugadores (recuerda que los jugadores escasean). Por hacerlo serán recompensados.
 
 {% hint style="warning" %}
 Retirar a un jugador implica quemar el token ERC721.

@@ -4,8 +4,8 @@
 
 * ☑️ Conceitualização do projeto
 * ☑️ Design do jogo
-* ☑️ Design de economia do jogo
-* ☑️ lançamento do site
+* ☑️ Design da economia do jogo
+* ☑️ Lançamento do site
 * ☑️ Contrato inteligente de $EPH
 * ☑️ Contrato inteligente Epheral NFT
 * ☑️ Algoritmo de geração da aparência dos Ephereals
@@ -15,7 +15,7 @@
 **Fase 2 (Q4 2021)**
 
 * ☑️ Oferta inicial de NFT
-* ☑️ Primeira versão MVP do juego
+* ☑️ Primeira versão MVP do jogo
 * ☑️ Primeiro torneio com prêmios monetários
 * ☑️ Algoritmo de controle de distribuição de talentos
 

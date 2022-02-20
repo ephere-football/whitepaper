@@ -1,0 +1,5 @@
+# Escassez
+
+Haverá até 200 milhões de Epherals. Esse número (próximo ao número real de jogadores lá fora) tem dois propósitos. Primeiro, tornar os jogadores [escassos](https://www.investopedia.com/terms/s/scarcity.asp), incentivando as pessoas a tomar decisões sobre como usar seus recursos de forma mais eficiente. Segundo, impor um limite prático ao número de equipes (usuários) que podem jogar o jogo. Em teoria, não mais de 10 milhões de pessoas poderão jogar ativamente ao mesmo tempo.
+
+Como a escassez é relativa, não faz sentido lançar todos os jogadores de uma vez. Estes serão cunhados à medida que o jogo seja exigido. Como a demanda pode ser um termo subjetivo, decidimos medi-la como a quantidade de energia Ephereal usada cada semana. O raciocínio por trás disso é: quanto mais sessões de treinamento forem realizadas e quanto mais partidas forem disputadas (ou seja, à medida que o jogo seja mais jogado), mais energia será gasta. Quando a quantidade de energia gasta atinge um certo limite de crescimento (a ser definido), um novo jogador será criado e liberado para os jogadores que jogam ativamente.

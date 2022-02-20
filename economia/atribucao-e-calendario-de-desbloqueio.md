@@ -6,7 +6,7 @@ Atribuição e calendário de desbloqueio de $EPH: [https://docs.google.com/spre
 
 ### Assessores <a href="#13df" id="13df"></a>
 
-Como qualquer empresa, Ephere precisa do conselho e orientação das pessoas mais experientes —o tempo que elas gastam nos ajudando a fazer o nosso melhor é recompensado com [$EPH](usdeph.md). Esses tokens representam 3% do fornecimento total e serão bloqueados por um ano após o [TGE](https://decrypt.co/resources/token-generation-events-what-are-they-guide).
+Como qualquer empresa, Ephere precisa do conselho e orientação das pessoas mais experientes —o tempo que elas gastam nos ajudando a fazer o nosso melhor é recompensado com [$EPH](eph.md). Esses tokens representam 3% do fornecimento total e serão bloqueados por um ano após o [TGE](https://decrypt.co/resources/token-generation-events-what-are-they-guide).
 
 ### Equipe <a href="#5e49" id="5e49"></a>
 
@@ -45,5 +45,5 @@ Os fundos arrecadados com esta oferta serão distribuídos da seguinte forma:
 _Play-to-Earn_ é o nosso núcleo. Queremos que os Ephereals obtenham o máximo benefício do token. O token será muito usado no jogo e será a recompensa que eles receberão por fazer o que amam: jogar. É justo que a base de nossa economia beneficie nossos usuários. Esses tokens representam 62% do fornecimento total e Ephere os emitirá de forma inteligente e automática, recompensando comportamentos específicos, como:
 
 * Ganhar partidas e competições.
-* Fornecer liquidez de NFT e [$EPH](usdeph.md).
+* Fornecer liquidez de NFT e [$EPH](eph.md).
 * E muitos mais por vir (já que estamos sempre pensando em comportamentos inovadores e justos que possam gerar ganhos para todos os Ephereals).

@@ -9,32 +9,32 @@
 
 ## Ephereals
 
-* [Modelo](ephereals/football-player.md)
-* [Aparência visual](ephereals/football-player-appearance.md)
-* [Escassez](ephereals/scarcity.md)
-* [Distribuição de talentos](ephereals/talent-distribution.md)
+* [Modelo](ephereals/modelo.md)
+* [Aparência visual](ephereals/aparencia-visual.md)
+* [Escassez](ephereals/escassez.md)
+* [Distribuição de talentos](ephereals/distribucao-de-talentos.md)
 
 ## O jogo
 
-* [Introdução](o-jogo/introduction.md)
-* [Custos e recompensas variáveis ​​de $EPH](o-jogo/variable-usdeph-cost-and-reward.md)
-* [Treinamento](o-jogo/training.md)
-* [Partidas PvE](o-jogo/pve.md)
-* [Partidas PvP](o-jogo/pvp.md)
-* [Liga](o-jogo/league.md)
-* [Becas](o-jogo/scolarships.md)
+* [Introdução](o-jogo/introducao.md)
+* [Custos e recompensas variáveis ​​de $EPH](o-jogo/custos-e-recompensas-variaveis-de-eph.md)
+* [Treinamento](o-jogo/treinamento.md)
+* [Partidas PvE](o-jogo/partidas-pve.md)
+* [Partidas PvP](o-jogo/partidas-pvp.md)
+* [Liga](o-jogo/liga.md)
+* [Bolsa](o-jogo/bolsa.md)
 
 ## Mercado
 
-* [Comprar e vender jogadores](mercado/buying-and-selling-players.md)
-* [Contratar jogadores](mercado/hiring-players.md)
+* [Comprar e vender jogadores](mercado/comprar-e-vender-jogadores.md)
+* [Contratar jogadores](mercado/contratar-jogadores.md)
 
 ## Economia
 
-* [$EPH](economia/usdeph.md)
-* [Atribuição e calendário de desbloqueio](economia/allocation.md)
+* [$EPH](economia/eph.md)
+* [Atribuição e calendário de desbloqueio](economia/atribucao-e-calendario-de-desbloqueio.md)
 
 ## Mais
 
-* [Planejamento](mais/roadmap.md)
-* [Equipe](mais/team.md)
+* [Planejamento](mais/planejamento.md)
+* [Equipe](mais/equipe.md)

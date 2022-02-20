@@ -1,6 +1,6 @@
 # Treinamento
 
-Este modo de jogo permite que você treine até 5 jogadores para melhorar seus atributos mentais, físicos e técnicos ao custo de [$EPH](../economia/usdeph.md) e energia.
+Este modo de jogo permite que você treine até 5 jogadores para melhorar seus atributos mentais, físicos e técnicos ao custo de [$EPH](../economia/eph.md) e energia.
 
 ### Simulacros
 

@@ -7,7 +7,7 @@
 * ☑️ Diseño de la economía del juego
 * ☑️ Lanzamiento del sitio web
 * ☑️ Contrato inteligente de $EPH
-* ☑️ Contrato inteligente Epheral NFT
+* ☑️ Contrato inteligente de Ephereal NFT
 * ☑️ Algoritmo de generación de la apariencia de los Ephereals
 * ☑️ Algoritmo de generación de los atributos de los Ephereals
 * ☑️ Exploración en red de pruebas

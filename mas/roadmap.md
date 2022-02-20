@@ -4,7 +4,7 @@
 
 * ☑️ Conceptualización del proyecto
 * ☑️ Diseño del juego
-* ☑️ Diseño de economía del juego
+* ☑️ Diseño de la economía del juego
 * ☑️ Lanzamiento del sitio web
 * ☑️ Contrato inteligente de $EPH
 * ☑️ Contrato inteligente Epheral NFT

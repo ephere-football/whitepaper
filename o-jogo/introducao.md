@@ -1,6 +1,6 @@
 # Introdução
 
-![Pantalla central del juego](<../.gitbook/assets/Ephere-UI Animation Test (1).gif>)
+![Tela central do jogo](<../.gitbook/assets/Ephere-UI Animation Test (1).gif>)
 
 O jogo gira em torno do gerenciamento de seu próprio time de futebol, o que inclui contratar jogadores, ajustar a escalação do time, a estratégia de jogo e gerenciar sua infraestrutura (instalações de treinamento, estádio etc.), para maximizar suas chances de ganhar partidas, competições, completar desafios e ganhar [$EPH](../economia/eph.md) (criptomoedas).
 

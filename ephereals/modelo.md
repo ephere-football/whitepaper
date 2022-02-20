@@ -12,7 +12,7 @@ Estes têm atributos físicos e mentais, habilidades futebolísticas treináveis
 Contrato oficial: [0xF48b4c5E2C7115Fb696b5401648D47E07a83194C](https://bscscan.com/token/0xF48b4c5E2C7115Fb696b5401648D47E07a83194C) ([Código fonte](https://github.com/ephere-football/contracts/blob/master/contracts/EphereFootballerERC721.sol))
 {% endhint %}
 
-### Atributos y habilidades
+### Atributos e habilidades
 
 Queremos que Ephere seja um jogo divertido onde as pessoas possam expressar sua criatividade, engenhosidade e pensamento estratégico para maximizar suas chances de sucesso. Para conseguir isso, precisamos de um sofisticado motor de simulação de partidas, com a capacidade de simular uma ampla gama de situações, o que requer uma representação complexa dos jogadores. É por isso que nossos jogadores têm um amplo conjunto de atributos que descrevem vários aspectos que os tornam únicos:&#x20;
 

@@ -1,6 +1,6 @@
 # Partidas PvE
 
-![Pantalla de juego](<../.gitbook/assets/Ephere-UI Match.gif>)
+![Tela do jogo](<../.gitbook/assets/Ephere-UI Match.gif>)
 
 Este modo de jogo permite que você coloque seu time para jogar uma partida de 11vs11 contra nossa IA. A dificuldade da IA ​​será ajustada automaticamente com base no OVR dos seus jogadores.
 

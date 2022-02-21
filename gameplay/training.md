@@ -1,6 +1,6 @@
 # Training
 
-This game mode allows you train up to 5 players to improve their mental, physical, and technical attributes at the cost of [$EPH](../tokenomics/usdeph.md) and energy.
+This game mode allows you train up to 5 players to improve their mental, physical, and technical attributes at the cost of [$EPH](../economy/usdeph.md) and energy.
 
 ### Drills
 

@@ -29,10 +29,10 @@
 * [Buying & selling players](marketplace/buying-and-selling-players.md)
 * [Hiring players](marketplace/hiring-players.md)
 
-## Tokenomics
+## Economy
 
-* [$EPH](tokenomics/usdeph.md)
-* [Allocation & unlock schedule](tokenomics/allocation.md)
+* [$EPH](economy/usdeph.md)
+* [Allocation & unlock schedule](economy/allocation.md)
 
 ## More
 

@@ -6,4 +6,4 @@ When you sign up as a new user, you will be automatically assigned to a league w
 
 Each team plays each other team in the same league twice per season. As there are 16 clubs per league, you play 30 matches per season. League matches are played once a day, so a season will last around a month.
 
-At the end of the season, the 4 teams at the top of each league will be promoted to the next higher level and will receive [$EPH](../tokenomics/usdeph.md) rewards according to their position. Likewise, the weakest 4 teams of each league will be relegated to a league with a level one below the current league.
+At the end of the season, the 4 teams at the top of each league will be promoted to the next higher level and will receive [$EPH](../economy/usdeph.md) rewards according to their position. Likewise, the weakest 4 teams of each league will be relegated to a league with a level one below the current league.

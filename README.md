@@ -12,4 +12,4 @@ description: The football metaverse where anyone can play to earn.
 
 **Football players** are at the very core of the universe. We call them **Ephereals**, due to their ethereal yet realistic nature. They have mental and physical attributes, trainable football skills, and a detail-rich visual appearance. They gain experience by playing matches, and can also get tired, injured, grow old, and retire — _they’re alive_.
 
-**The game** revolves around managing your own football team which includes hiring players (NFTs), setting the team's lineup, in-match strategy, and managing its infrastructure (training facilities, stadium, etc) to maximize your chances of winning matches, competitions, completing challenges, and earn [$EPH](tokenomics/usdeph.md) cryptocurrency along the way.
+**The game** revolves around managing your own football team which includes hiring players (NFTs), setting the team's lineup, in-match strategy, and managing its infrastructure (training facilities, stadium, etc) to maximize your chances of winning matches, competitions, completing challenges, and earn [$EPH](economy/usdeph.md) cryptocurrency along the way.

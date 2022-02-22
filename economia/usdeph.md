@@ -1,5 +1,5 @@
 ---
-description: 'Dirección del contrato oficial: 0x0'
+description: 'Dirección del contrato oficial: 0x5BE0dC17e9E29B7D4504Fb9C2a614cE5d784C2d9'
 ---
 
 # $EPH
@@ -11,5 +11,5 @@ El token será necesario para realizar varias acciones en el juego como contrata
 El suministro está limitado a 300,000,000 y será _minteado_ estrictamente según necesario.
 
 {% hint style="info" %}
-Contrato oficial: [0x](https://bscscan.com/token/0xfCf71d52d1aD105A4Dcf5809af5Bd560ABDaca0c)0 ([Código fuente](https://github.com/ephere-football/contracts/blob/master/contracts/EpherERC20.sol))
+Contrato oficial: [0x5BE0dC17e9E29B7D4504Fb9C2a614cE5d784C2d9](https://bscscan.com/token/0x5BE0dC17e9E29B7D4504Fb9C2a614cE5d784C2d9) ([Código fuente](https://github.com/ephere-football/contracts/blob/master/contracts/EpherERC20.sol))
 {% endhint %}

@@ -26,7 +26,7 @@ Official private sale contract: [0xfCf71d52d1aD105A4Dcf5809af5Bd560ABDaca0c](htt
 
 ### Public Sale <a href="#e0ef" id="e0ef"></a>
 
-This is a big one: our public token offering will go live in February 2022. These tokens represent 15% of the total supply. 40% of these tokens will be unlocked after TGE, and the rest will be unlocked by batches of 20% on each subsequent month.
+These tokens represent 15% of the total supply. 40% of these tokens will be unlocked after TGE, and the rest will be unlocked by batches of 20% on each subsequent month.
 
 The funds raised through this offering will be allocated as follows:
 
@@ -35,6 +35,10 @@ The funds raised through this offering will be allocated as follows:
 | Liquidity pool |        78% |
 | Marketing      |         8% |
 | Operation      |        14% |
+
+{% hint style="info" %}
+Official public sale link: [https://www.pinksale.finance/#/launchpad/0xE5A5434cf75aA4a4bDcf47cb6b1b4D592CdB48Cb?chain=BSC](https://www.pinksale.finance/#/launchpad/0xE5A5434cf75aA4a4bDcf47cb6b1b4D592CdB48Cb?chain=BSC)
+{% endhint %}
 
 ### Liquidity Pool <a href="#e0ef" id="e0ef"></a>
 

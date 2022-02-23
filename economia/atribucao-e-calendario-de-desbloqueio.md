@@ -26,7 +26,7 @@ Contrato oficial de venda privada: [0xfCf71d52d1aD105A4Dcf5809af5Bd560ABDaca0c](
 
 ### Venda Pública <a href="#e0ef" id="e0ef"></a>
 
-Isso é algo grande: nossa oferta pública de tokens será lançada em fevereiro de 2022. Esses tokens representam 15% do fornecimento total. 40% desses tokens serão desbloqueados após o [TGE](https://decrypt.co/resources/token-generation-events-what-are-they-guide), e o restante será desbloqueado em lotes de 20% a cada mês subsequente.
+Esses tokens representam 15% do fornecimento total. 40% desses tokens serão desbloqueados após o [TGE](https://decrypt.co/resources/token-generation-events-what-are-they-guide), e o restante será desbloqueado em lotes de 20% a cada mês subsequente.
 
 Os fundos arrecadados com esta oferta serão distribuídos da seguinte forma:
 
@@ -35,6 +35,10 @@ Os fundos arrecadados com esta oferta serão distribuídos da seguinte forma:
 | Liquidity pool |         78% |
 | Marketing      |          8% |
 | Operações      |         14% |
+
+{% hint style="info" %}
+Link oficial da venda pública: [https://www.pinksale.finance/#/launchpad/0xE5A5434cf75aA4a4bDcf47cb6b1b4D592CdB48Cb?chain=BSC](https://www.pinksale.finance/#/launchpad/0xE5A5434cf75aA4a4bDcf47cb6b1b4D592CdB48Cb?chain=BSC)
+{% endhint %}
 
 ### Liquidity Pool <a href="#e0ef" id="e0ef"></a>
 

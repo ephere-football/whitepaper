@@ -32,9 +32,9 @@ Os fundos arrecadados com esta oferta serão distribuídos da seguinte forma:
 
 | Atribuição     | Percentagem |
 | -------------- | ----------: |
-| Liquidity pool |         78% |
+| Liquidity pool |         80% |
 | Marketing      |          8% |
-| Operações      |         14% |
+| Operações      |         12% |
 
 {% hint style="info" %}
 Link oficial da venda pública: [https://www.pinksale.finance/#/launchpad/0xE5A5434cf75aA4a4bDcf47cb6b1b4D592CdB48Cb?chain=BSC](https://www.pinksale.finance/#/launchpad/0xE5A5434cf75aA4a4bDcf47cb6b1b4D592CdB48Cb?chain=BSC)

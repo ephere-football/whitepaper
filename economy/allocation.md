@@ -32,9 +32,9 @@ The funds raised through this offering will be allocated as follows:
 
 | Allocation     | Percentage |
 | -------------- | ---------: |
-| Liquidity pool |        78% |
+| Liquidity pool |        80% |
 | Marketing      |         8% |
-| Operation      |        14% |
+| Operation      |        12% |
 
 {% hint style="info" %}
 Official public sale link: [https://www.pinksale.finance/#/launchpad/0xE5A5434cf75aA4a4bDcf47cb6b1b4D592CdB48Cb?chain=BSC](https://www.pinksale.finance/#/launchpad/0xE5A5434cf75aA4a4bDcf47cb6b1b4D592CdB48Cb?chain=BSC)

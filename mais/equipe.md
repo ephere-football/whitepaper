@@ -50,7 +50,11 @@ Eu também sou um amante de vinho tinto, então sinta-se à vontade para entrar 
 
 #### [Santi](https://www.linkedin.com/in/santiago-rangel-mora-a71238191/)
 
-Senior Software Engineer
+Software Engineer colombiano com forte interesse em blockchain, web3 e crente na descentralização. Além disso, sou apaixonada por fractais.
+
+Jogo desde que me lembro. Difícil equilibrar esse hobby com escalada e minha paixão pelo montanhismo.
+
+Muito feliz em fazer parte dessa equipe :smile:
 
 #### [Andrea](https://www.linkedin.com/in/andrea-g-821901b0/)
 

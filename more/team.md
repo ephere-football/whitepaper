@@ -50,7 +50,11 @@ I'm also a red wine lover, so you can hit me up if you have any recommendations!
 
 #### [Santi](https://www.linkedin.com/in/santiago-rangel-mora-a71238191/)
 
-Senior Software Engineer
+Colombian Software Developer with strong interests in blockchain, web3 and a decentralization believer. Also, I am in love with fractals.
+
+I have been gaming for as long as I can remember. Hard to balance this hobby with climbing and my passion for mountaineering.
+
+Really happy to be part of this team :smile:
 
 #### [Andrea](https://www.linkedin.com/in/andrea-g-821901b0/)
 

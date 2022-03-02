@@ -4,7 +4,7 @@ description: 'Official contract address: 0x5BE0dC17e9E29B7D4504Fb9C2a614cE5d784C
 
 # $EPH
 
-$EPH is an **ERC-20** token running on the [Binance Smart Chain](https://coinmarketcap.com/alexandria/article/what-is-binance-smart-chain) blockchain.
+$EPH is an **BEP-20** token running on the [Binance Smart Chain](https://coinmarketcap.com/alexandria/article/what-is-binance-smart-chain) blockchain.
 
 The token will be required to perform several in-game actions such as hiring and training players, competing in leagues and tournaments, playing against other teams in PvP matches, and improving the infrastructure of your team. It's also the token users will earn for winning matches, completing challenges or using our marketplace —among many others.
 

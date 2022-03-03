@@ -5,16 +5,16 @@ This game mode allows you to put your team to play a 11vs11 match against the te
 | Property                 | Value                                              |
 | ------------------------ | -------------------------------------------------- |
 | Energy cost (per player) | Depending on the Ephereal tier                     |
-| $EPH cost                | 0                                                  |
+| $EPH cost                | \~ USD 0                                           |
 | $EPH reward for winning  | \~ USD 0.75 + bonus per Ephereal (see table below) |
 
 | Ephereal tier | Reward for winning bonus |
 | ------------- | ------------------------ |
-| Tier 1        | \~ USD 11                |
-| Tier 2        | \~ USD 1                 |
-| Tier 3        | \~ USD 0.75              |
-| Tier 4        | \~ USD 0.2               |
-| Tier 5        | \~ USD 0.02              |
+| Tier 1        | \~ USD 0.55              |
+| Tier 2        | \~ USD 0.16              |
+| Tier 3        | \~ USD 0.1               |
+| Tier 4        | \~ USD 0.04              |
+| Tier 5        | \~ USD 0.008             |
 
 {% hint style="info" %}
 You can play as many matches as you can, as long as your players have enough energy. Remember that using tired players highly increases the chances of them getting injured.

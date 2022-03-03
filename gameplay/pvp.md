@@ -2,11 +2,11 @@
 
 This game mode allows you to put your team to play a 11vs11 match against the team of another user. When you submit your squad and tactics you will be added to the match-making queue until another team with a similar OVR is available for a PvP match.
 
-| Property                 | Value                                              |
-| ------------------------ | -------------------------------------------------- |
-| Energy cost (per player) | Depending on the Ephereal tier                     |
-| $EPH cost                | \~ USD 0                                           |
-| $EPH reward for winning  | \~ USD 0.75 + bonus per Ephereal (see table below) |
+| Property                 | Value                                                   |
+| ------------------------ | ------------------------------------------------------- |
+| Energy cost (per player) | Depending on the Ephereal tier                          |
+| $EPH cost                | \~ USD 0                                                |
+| $EPH reward for winning  | \~ USD 0.75 + bonus per each Ephereal (see table below) |
 
 | Ephereal tier | Reward for winning bonus |
 | ------------- | ------------------------ |

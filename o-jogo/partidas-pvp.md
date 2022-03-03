@@ -8,6 +8,14 @@ Este modo de jogo permite que você coloque seu time para jogar uma partida de 1
 | Custo de $EPH                  | \~ USD 0                                               |
 | Recompensa de $EPH por ganhar  | \~ USD 0,75 + bônus por Epheral (veja a tabela abaixo) |
 
+| Ephereal tier | Recompensa por ganhar bônus |
+| ------------- | --------------------------- |
+| Tier 1        | \~ USD 11                   |
+| Tier 2        | \~ USD 1                    |
+| Tier 3        | \~ USD 0.75                 |
+| Tier 4        | \~ USD 0.2                  |
+| Tier 5        | \~ USD 0.02                 |
+
 {% hint style="info" %}
 As partidas PvE são gratuitas para jogar. Você pode jogar quantas partidas puder, desde que seus jogadores tenham energia suficiente. Lembre-se que usar jogadores cansados ​​aumenta muito as chances de eles se lesionarem.
 {% endhint %}

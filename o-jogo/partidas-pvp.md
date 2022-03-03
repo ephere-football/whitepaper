@@ -2,11 +2,11 @@
 
 Este modo de jogo permite que você coloque seu time para jogar uma partida de 11vs11 contra o time de outro usuário. Ao enviar seus jogadores e táticas, você será adicionado à fila de organização de partidas até que outra equipe com OVR semelhante esteja disponível para uma partida PvP.
 
-| Propriedade                    | Valor                                                  |
-| ------------------------------ | ------------------------------------------------------ |
-| Custo de energia (por jogador) | Dependendo do nível do Ephereal                        |
-| Custo de $EPH                  | \~ USD 0                                               |
-| Recompensa de $EPH por ganhar  | \~ USD 0,75 + bônus por Epheral (veja a tabela abaixo) |
+| Propriedade                    | Valor                                                       |
+| ------------------------------ | ----------------------------------------------------------- |
+| Custo de energia (por jogador) | Dependendo do nível do Ephereal                             |
+| Custo de $EPH                  | \~ USD 0                                                    |
+| Recompensa de $EPH por ganhar  | \~ USD 0,75 + bônus por cada Epheral (veja a tabela abaixo) |
 
 | Ephereal tier | Recompensa por ganhar bônus |
 | ------------- | --------------------------- |

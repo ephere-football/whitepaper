@@ -1,15 +1,21 @@
 # PvP match
 
-This game mode allows you put your team to play a 11vs11 match against the team of another user. When you submit your squad and tactics you will be added to the match-making queue until another team with similar OVR is available for a PvP match.
+This game mode allows you to put your team to play a 11vs11 match against the team of another user. When you submit your squad and tactics you will be added to the match-making queue until another team with a similar OVR is available for a PvP match.
 
-To play PvP matches users have to pay [$EPH](../economy/usdeph.md). The winner receives \~ USD 1 from the Play To Earn budget plus 99% of the match stake (Ephere takes the remaining 1%). This means that when you win a PvP match you're doubling your [$EPH](../economy/usdeph.md) investment.
+| Property                 | Value                                              |
+| ------------------------ | -------------------------------------------------- |
+| Energy cost (per player) | Depending on the Ephereal tier                     |
+| $EPH cost                | 0                                                  |
+| $EPH reward for winning  | \~ USD 0.75 + bonus per Ephereal (see table below) |
 
-| Property                 | Value                   |
-| ------------------------ | ----------------------- |
-| Energy cost (per player) | 0.3333 per match minute |
-| $EPH cost                | \~ USD 10               |
-| $EPH reward for winning  | \~ USD 20.8             |
+| Ephereal tier | Reward for winning bonus |
+| ------------- | ------------------------ |
+| Tier 1        | \~ USD 11                |
+| Tier 2        | \~ USD 1                 |
+| Tier 3        | \~ USD 0.75              |
+| Tier 4        | \~ USD 0.2               |
+| Tier 5        | \~ USD 0.02              |
 
 {% hint style="info" %}
-You can play up to 2 matches per day, as long as your players have enough energy. Remember that using tired players highly increases the chances of them getting injured.
+You can play as many matches as you can, as long as your players have enough energy. Remember that using tired players highly increases the chances of them getting injured.
 {% endhint %}

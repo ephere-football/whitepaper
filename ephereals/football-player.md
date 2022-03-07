@@ -38,6 +38,7 @@ The OVR is a the weighted average of some attributes of an Ephereal. They are ca
 | Tier 2   | 90 - 94 |
 | Tier 3   | 82 - 89 |
 | Tier 4   | 76 - 81 |
+| Tier 5   | 70 - 75 |
 
 ### Retirement
 

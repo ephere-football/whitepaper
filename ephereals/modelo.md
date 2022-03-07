@@ -28,6 +28,18 @@ Os **atributos da camada 2** podem flutuar com base na atividade do jogo. As inf
 No futuro, usaremos uma blockchain de alto desempenho -- provavelmente criada por nós -- para armazenar os atributos da camada 2.
 {% endhint %}
 
+### OVR
+
+O OVR é uma média ponderada de alguns atributos de um Epheral. Eles são categorizados em cinco níveis diferentes de acordo com esse valor:
+
+| Categoria | OVR     |
+| --------- | ------- |
+| Tier 1    | 95 - 99 |
+| Tier 2    | 90 - 94 |
+| Tier 3    | 82 - 89 |
+| Tier 4    | 76 - 81 |
+| Tier 5    | 70 - 75 |
+
 ### Retiro
 
 À medida que os jogadores envelhecem, seu desempenho diminui. Os usuários poderão retirar seus jogadores se assim o desejarem, deixando espaço para o nascimento de novos jogadores (lembre-se que os jogadores são escassos). Por isso, eles serão recompensados.

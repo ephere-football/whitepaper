@@ -28,6 +28,17 @@ We want Ephere to be a fun game in which people can express their creativity, in
 In the future we'll use a High-Throughput blockchain --probably built by us-- to store layer-2 attributes.
 {% endhint %}
 
+### OVR
+
+The OVR is a the weighted average of some attributes of an Ephereal. They are categorized in five different tiers according to this value:
+
+| Category | OVR     |
+| -------- | ------- |
+| Tier 1   | 95 - 99 |
+| Tier 2   | 90 - 94 |
+| Tier 3   | 82 - 89 |
+| Tier 4   | 76 - 81 |
+
 ### Retirement
 
 As players get old their performance decrease. Users will be able to retire their players if they want, leaving room for new players to be born (Remember, players are scarce). For doing so they will be rewarded.

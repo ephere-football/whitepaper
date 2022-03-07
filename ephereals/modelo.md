@@ -30,7 +30,7 @@ No futuro, usaremos uma blockchain de alto desempenho -- provavelmente criada po
 
 ### OVR
 
-O OVR é uma média ponderada de alguns atributos de um Epheral. Eles são categorizados em cinco níveis diferentes de acordo com esse valor:
+O OVR é a média ponderada de alguns dos atributos de um Ephereal. Eles são categorizados em cinco níveis diferentes, dependendo desse valor:
 
 | Categoria | OVR     |
 | --------- | ------- |

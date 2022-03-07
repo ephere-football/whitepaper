@@ -28,6 +28,18 @@ Los **atributos de capa 2** pueden sufrir fluctuaciones basadas en la actividad 
 En el futuro usaremos una blockchain de alto rendimiento --probablemente creada por nosotros-- para almacenar atributos de capa 2.
 {% endhint %}
 
+### OVR
+
+El OVR es el promedio ponderado de alguno de los atributos de un Ephereal. Estos son categorizados en cinco niveles diferentes dependiendo de este valor:
+
+| Categoría | OVR     |
+| --------- | ------- |
+| Tier 1    | 95 - 99 |
+| Tier 2    | 90 - 94 |
+| Tier 3    | 82 - 89 |
+| Tier 4    | 76 - 81 |
+| Tier 5    | 70 - 75 |
+
 ### Retiro
 
 A medida que los jugadores envejecen su rendimiento disminuye. Los usuarios podrán retirar a sus jugadores si así lo desean, dejando espacio para que nazcan nuevos jugadores (recuerda que los jugadores escasean). Por hacerlo serán recompensados.

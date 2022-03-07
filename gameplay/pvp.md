@@ -8,6 +8,8 @@ This game mode allows you to put your team to play a 11vs11 match against the te
 | $EPH cost                | \~ USD 0                                                |
 | $EPH reward for winning  | \~ USD 0.75 + bonus per each Ephereal (see table below) |
 
+### Winning reward bonus per each Ephereal
+
 | Ephereal tier | Reward for winning bonus |
 | ------------- | ------------------------ |
 | Tier 1        | \~ USD 0.55              |
